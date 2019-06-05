@@ -1,0 +1,80 @@
+<app-header title="Contacto"></app-header>
+
+<ion-content>
+    <div style="height: 60%; width: 100%" id="map_canvas"></div>
+    <ion-card>
+        <ion-card-content>
+            <p>
+                Instituto religioso
+            </p>
+            <ion-card-title>
+                Miles Christi México
+            </ion-card-title>
+        </ion-card-content>
+
+        <!-- <ion-item (click)="sendMail()"> -->
+        <ion-item>
+            <ion-buttons>
+                <ion-button (click)="sendMail($event)" id="btn-a" text-lowercase>
+                    <ion-icon name='mail' style="color: #d03e84" slot="start"></ion-icon>
+                    <p id="btn-a">infomexico@mileschristi.org</p>
+                </ion-button>
+            </ion-buttons>
+        </ion-item>
+
+        <ion-item>
+            <ion-buttons>
+                <ion-button (click)="sendMail($event)" id="btn-b" text-lowercase>
+                    <ion-icon name='mail' style="color: #d03e84" slot="start"></ion-icon>
+                    <p id="btn-b">ejerciciosgdl@mileschristi.org</p>
+                </ion-button>
+            </ion-buttons>
+        </ion-item>
+
+        <ion-item>
+            <ion-buttons>
+                <ion-button text-lowercase>
+                    <p><a href="https://www.mileschristi.org.ar/">www.mileschristi.org.mx </a></p>
+                    <ion-icon name='globe' style="color: #55acee" slot="start"></ion-icon>
+                </ion-button>
+            </ion-buttons>
+        </ion-item>
+        
+        <ion-item>
+            <ion-buttons>
+                <ion-button text-capitalize>
+                    <p><a href="https://www.facebook.com/miles.christi.142"> Miles Christi </a></p>
+                    <ion-icon name="logo-facebook" style="color: #3b5998" slot="start"></ion-icon>
+                </ion-button>
+            </ion-buttons>
+        </ion-item>
+
+        <ion-item>
+            <ion-buttons>
+                <ion-button text-capitalize>
+                    <p><a href="https://www.facebook.com/jovenes.mileschristi/"> Jóvenes Miles Christi </a></p>
+                    <ion-icon name="logo-facebook" style="color: #3b5998" slot="start"></ion-icon>
+                </ion-button>
+            </ion-buttons>
+        </ion-item>
+
+        <ion-item>
+            <ion-buttons>
+                <ion-button>
+                    <!-- <p><a href="">+52 1 33 1669 5911</a></p> -->
+                    <p>+52 1 33 1669 5911</p>
+                    <ion-icon name="logo-whatsapp" style="color: #25D366" slot="start"></ion-icon>
+                </ion-button>
+            </ion-buttons>
+        </ion-item>
+
+        <ion-item>
+            <ion-buttons>
+                <ion-button text-capitalize>
+                    <p><a href="https://www.instagram.com/?hl=es-la">JóvenesMexMC</a></p>
+                    <ion-icon name="logo-instagram" slot="start"></ion-icon>
+                </ion-button>
+            </ion-buttons>
+        </ion-item>
+    </ion-card>
+</ion-content>

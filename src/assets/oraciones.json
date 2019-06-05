@@ -1,0 +1,457 @@
+[
+	{
+		"nombre":"1) Para persignarse",
+		"title":"Para persignarse",
+		"contenido_esp":"Por la señal de la Santa Cruz, de nuestros enemigos, líbranos Señor, Dios Nuestro.\n\nEn el nombre del Padre, y del Hijo y del Espiritu Santo. Amén.",
+		"contenido_lat":"Per signum Crucis, de inimícis nostris, líbera nos, Deus noster.\n\nIn nómine Patris, et Fílii, et Spíritus Sancti. Amen."
+	},
+	{
+		"nombre":"2) Padre nuestro",
+		"title":"Padre nuestro",
+		"contenido_esp":"Padre nuestro que estas en los cielos, santificado sea tu Nombre; venga a nosotros tu reino; hágase tu voluntad en la tierra como en el cielo.\n\nDanos hoy nuestro pan de cada día; y perdona nuestras ofensas, como nosotros perdonamos a los que nos ofenden; no nos dejes caer en la tentación, y líbranos del mal. Amén.",
+		"contenido_lat":"Pater noster, qui es in c\u00E6lis, sanctificétur nomen tuum; advéniat regnum tuum; fiat volúntas tua, sicut in c\u00E6lo et in terra.\n\nPanem nostrum cotidiánum da nobis hódie; et dimítte nobis débita nostra, sicut et nos dimíttimus debitóribus nostris; et ne nos indúcas in tentatiónem; sed líbera nos a malo. Amen."
+	},
+	{
+		"nombre":"3) Ave María",
+		"title":"Ave María",
+		"contenido_esp":"Dios te salve, María; llena eres de gracia; el Señor es contigo; bendita Tú eres entre todas las mujeres, y bendito es el fruto de tu vientre, Jesús.\n\nSanta María, Madre de Dios, ruega por nosotros, pecadores, ahora y en la hora de nuestra muerte. Amén.",
+		"contenido_lat":"Ave María, grátia plena, Dóminus tecum, benedícta tu in muliéribus, et benedíctus fructus ventris tui, Iesus.\n\nSancta María, Mater Dei, ora pro nobis peccatóribus, nunc et in hora mortis nostr\u00E6. Amen."
+	},
+	{
+		"nombre":"4) Gloria",
+		"title":"Gloria",
+		"contenido_esp":"Gloria al Padre, y al Hijo, y al Espíritu Santo.\n\nComo era en el principio, ahora y siempre, y por los siglos de los siglos. Amén.",
+		"contenido_lat":"Gloria Patri, et Fílio, et Spíritui Sancto.\n\nSicut erat in princípio, et nunc et semper, et in sǽcula s\u00E6culórum. Amen."
+	},
+	{
+		"nombre": "5) Credo niceno constantinopolitano",
+		"title":"Credo niceno constantinopolitano",
+		"contenido_esp": "Creo en un solo Dios, Padre todopoderoso, Creador del cielo y de la tierra, de todo lo visible y lo invisible.\n\nCreo en un solo Señor, Jesucristo, Hijo único de Dios, nacido del Padre antes de todos los siglos: Dios de Dios, Luz de Luz, Dios verdadero de Dios verdadero, engendrado, no creado, de la misma naturaleza del Padre; por quien todo fue hecho; que por nosotros, los hombres, y por nuestra salvación bajó del cielo, y por obra del Espíritu Santo se encarnó de María, la Virgen, y se hizo hombre; y por nuestra causa fue crucificado en tiempos de Poncio Pilato; padeció y fue sepultado, y resucitó al tercer día, según las Escrituras, y subió al cielo, y está sentado a la derecha del Padre; y de nuevo vendrá con gloria para juzgar a vivos y muertos, y su reino no tendrá fin.\n\nCreo en el Espíritu Santo, Señor y dador de vida, que procede del Padre y del Hijo, que con el Padre y el Hijo recibe una misma adoración y gloria, y que habló por los profetas.\n\nCreo en la Iglesia, que es una, santa, católica y apostólica.\n\nConfieso que hay un solo Bautismo para el perdón de los pecados.\n\nEspero la resurrección de los muertos y la vida del mundo futuro. Amén."
+	},
+	{
+		"nombre":"6) Credo de los apóstoles",
+		"title":"Credo de los apóstoles",
+		"contenido_esp":"Creo en Dios, Padre todopoderoso, Creador del cielo y de la tierra.\n\nCreo en Jesucristo, su Único Hijo, nuestro Señor, que fue concebido por obra y gracia del Espíritu Santo, nació de Santa María Virgen, padeció bajo el poder de Poncio Pilato, fue crucificado, muerto y sepultado; descendió a los infiernos; al tercer día resucitó de entre los muertos; subió a los cielos, y está sentado a la derecha de Dios, Padre todopoderoso.\n\nDesde allí ha de venir a juzgar a vivos y muertos.\n\nCreo en el Espíritu Santo, la Santa Iglesia Católica, la comunión de los santos, el perdón de los pecados, la resurrección de la carne y la vida eterna. Amén."
+	},
+	{
+		"nombre":"7) Gloria (de la Misa)",
+		"title":"Gloria (de la Misa)",
+		"contenido_esp":"Gloria a Dios en el cielo, y en la tierra paz a los hombres que ama el Señor.\n\nPor tu inmensa gloria te alabamos, te bendecimos, te adoramos, te glorificamos, te damos gracias, Señor Dios, Rey celestial, Dios Padre todopoderoso.\n\nSeñor, Hijo único, Jesucristo, Señor Dios, Cordero de Dios, Hijo del Padre; tú que quitas el pecado del mundo, ten piedad de nosotros; tú que quitas el pecado del mundo, atiende a nuestra súplica; tú que estás sentado a la derecha del Padre, ten piedad de nosotros; porque sólo tú eres santo, sólo tú Señor, sólo tú Altísimo Jesucristo, con el Espíritu Santo en la gloria de Dios Padre. Amén."
+	},
+	{
+		"nombre":"8) Yo Confíeso",
+		"title":"Yo Confíeso",
+		"contenido_esp":"Yo confieso, ante Dios todopoderoso, y ante ustedes, hermanos, que he pecado mucho, de pensamiento, palabra, obra y omisión.\n\nPor mi culpa, por mi culpa, por mi gran culpa.\n\nPor eso ruego a Santa María, siempre Virgen, a los Ángeles, a los Santos, y a ustedes, hermanos, que intercedan por mí ante Dios, nuestro Señor."
+	},
+	{
+		"nombre":"9) Acto de contrición",
+		"title":"Acto de contrición",
+		"contenido_esp":"Pésame, Dios mío, y me arrepiento de todo corazón de haberos ofendido.\n\nPésame por el infierno que merecí y por el cielo que perdí; pero mucho más me pesa porque pecando ofendí a un Dios tan bueno y tan grande como Vos.\n\nAntes querría haber muerto que haberos ofendido; y propongo firmemente no pecar más y evitar todas las ocasiones próximas de pecado. Amén."
+	},
+	{
+		"nombre":"10) Breve acto de contrición",
+		"title":"Breve acto de contrición",
+		"contenido_esp":"Dios mío, me arrepiento de todo corazón de haberte ofendido porque eres infinitamente bueno, dame tu Santa Gracia para no ofenderte más. Amén."
+	},
+	{
+		"nombre":"11) Salve Regina",
+		"title":"Salve Regina",
+		"contenido_esp":"Dios te salve, Reina y Madre de misericordia, vida, dulzura y esperanza nuestra; Dios te salve.\n\nA ti llamamos, los desterrados hijos de Eva; a ti suspiramos, gimiendo y llorando, en este valle de lágrimas.\n\nEa, pues Señora, abogada nuestra, vuelve a nosotros esos tus ojos misericordiosos; y después de este destierro muéstranos a Jesús, fruto bendito de tu vientre.\n\n¡Oh clemente, oh piadosa, oh dulce Virgen María!\n\nU: Ruega por nosotros, Santa Madre de Dios\n\nT: Para que seamos dignos de alcanzar las divinas gracias y promesas de nuestro Señor Jesucristo. Amén."
+	},
+	{
+		"nombre":"12) Bendita sea tu pureza",
+		"title":"Bendita sea tu pureza",
+		"contenido_esp":"Bendita sea tu pureza, y eternamente lo sea, pues todo un Dios se recrea en tan graciosa belleza.\n\nA ti celestial Princesa, Virgen Sagrada María, yo te ofrezco en este día, alma, vida y corazón.\n\nMírame con compasión, no me dejes, Madre mía."
+	},
+	{
+		"nombre":"13) Dulce Madre",
+		"title":"Dulce Madre",
+		"contenido_esp":"Dulce Madre, no te alejes, tu vista de mí no apartes, ven conmigo a todas partes, y sólo nunca me dejes.\n\nYa que me proteges tanto, como verdadera madre, haz que me bendiga el Padre, el Hijo y el Espíritu Santo. Amén."
+	},
+	{
+		"nombre":"14) Ángelus",
+		"title":"Ángelus",
+		"instrucciones":"Al despertar, al mediodía y al atardecer.\n\nReemplazado por el Regina C\u00E6li #15 en el Tiempo Pascual (Sábado de Gloria al Domingo de Pentecostés).",
+		"contenido_esp":"U: El Ángel del Señor anunció a María.\n\nT: Y concibió por obra del Espíritu Santo.\n\nU: Dios te salve, María ...  T: Santa María ...\n\nU: He aquí la esclava del Señor,\n\nT: Hágase en mi según tu palabra.\n\nU: Dios te salve, María ...  T: Santa María ...\n\nU: Y el Verbo se hizo carne,\n\nT: Y habitó entre nosotros.\n\nU: Dios te salve, María ...  T: Santa María ...\n\nU: Ruega por nosotros, Santa Madre de Dios.\n\nT:  Para que seamos dignos de alcanzar las divinas gracias y promesas de nuestro Señor Jesucristo. Amén.\n\nU: Oremos. Infunde, Señor, tu gracia en nuestras almas, para que, habiendo conocido por el anuncio del Ángel la Encarnación de tu Hijo Jesucristo, por su Pasión y Cruz, seamos llevados a la gloria de la resurrección. Por el mismo Cristo nuestro Señor.\n\n T: Amén."
+	},
+	{
+		"nombre":"15) Regína Cǽli (en Tiempo Pascual)",
+		"title":"Regína Cǽli (en Tiempo Pascual)",
+		"contenido_esp":"U: Reina del cielo, alégrate, aleluya.\n\nT: Porque el que mereciste llevar en tu seno, aleluya.\n\nU: Resucitó según lo predijo, aleluya.\n\nT: Ruega a Dios por nosotros, aleluya.\n\nU: Gózate y alégrate, Virgen María, aleluya.\n\nT: Porque el Señor resucitó verdaderamente, aleluya.\n\nU: Oremos. Dios, que te has dignado alegrar al mundo por la Resurrección de tu Hijo Jesucristo, concédenos que por su Madre, la Virgen María, alcancemos el gozo de la vida eterna.\n\n Por el mismo Cristo nuestro Señor.\n\nT: Amén."
+	},
+	{
+		"nombre":"17) Oración de la Virgen de Fátima",
+		"title":"Oración de la Virgen de Fátima",
+		"instrucciones":"Luego de cada misterio del Rosario, por pedido de la Virgen.",
+		"contenido_esp":"¡Oh, Jesús mío, perdona nuestras culpas, líbranos del fuego del infierno, lleva al Cielo a todas las almas, socorre especialmente a las más necesitadas de tu misericordia!"
+	},
+	{
+		"nombre":"18) Modo de rezar el santo rosario",
+		"title":"Modo de rezar el santo rosario",
+		"instrucciones":"El Rosario goza de Indulgencia Plenaria si se reza sin interrumpir y de modo meditado, en un templo, o en familia, comunidad religiosa, o asociación de piedad, o reunidos con un fin honesto (Ench. Ind. conc.17 §1).",
+		"contenido_esp":"U: Por la señal de la Santa Cruz ... (#1). \n\nActo de contrición:  T: Pésame, Dios mío ... (#9)\n\nGloria al Padre ... (#4).  T: Como era ...\n\nU: Contemplamos los misterios (gozosos). \n\nEn el 1er Misterio (gozoso) contemplamos ... (#19)\n\n(Se sugiere dejar un momento en silencio para meditar el misterio y ofrecerlo por una intención.)\n\nU: Padre nuestro ... T: Danos hoy ...\n\nU: Dios te salve, María ... T: Santa María ... (10 veces)\n\nU: Gloria al Padre ... (#4) ... T: Como era ...\n\nU: María, Madre de gracia, Madre de misericordia,\n\nT:  en la vida y en la muerte ampáranos, gran Señora.\n\nSe reza la Oración de la Virgen de Fátima (#17)\n\nU: En el 2do Misterio (gozoso) contemplamos ... (#19)\n\n(y seguir como lo indicado; al terminar el 5to. Misterio:)\n\nU: Recemos por las intenciones del Sumo Pontífice, para ganar las Santas Indulgencias.\n\nUn Padrenuestro, tres Avemarías y un Gloria.\n\nConcluir con las Letanías Lauretanas de la Virgen (#20)."
+	},
+	{
+		"nombre":"19) Misterios del santo rosario",
+		"title":"Misterios del santo rosario",
+		"contenido_esp":"● Misterios gozosos (lunes y sábados)\n\n1. La Anunciación del Ángel a María y la Encarnación del Hijo de Dios.\n\n2. La Visitación de la Virgen María a su parienta Santa Isabel.\n\n3. El Nacimiento del Hijo de Dios en el portal de Belén.\n\n4. La Presentación de Jesús en el Templo y la Purificación de la Virgen María.\n\n5. El Niño Jesús perdido y hallado en el Templo.\n\n\n\n● Misterios de la luz (jueves)\n\n1. El Bautismo del Señor.\n\n2. Las Bodas de Caná.\n\n3. El anuncio del Reino de Dios y el llamado a la conversión.\n\n4. La Transfiguración del Señor.\n\n5. La Institución de la Sagrada Eucaristía.\n\n\n\n● Misterios dolorosos (martes y viernes)\n\n1. La Oración y Agonía de Jesús en el Huerto.\n\n2. La Flagelación de nuestro Señor.\n\n3. La Coronación de espinas.\n\n4. Jesús con la Cruz a cuestas camino al Calvario.\n\n5. La Crucifixión y Muerte de nuestro Señor.\n\n\n\n● Misterios gloriosos (miércoles y domingos)\n\n1. La triunfante Resurrección de nuestro Señor.\n\n2. La Ascensión del Señor a los Cielos.\n\n3. La Venida del Espíritu Santo sobre María Santísima y los Apóstoles.\n\n4. La Asunción de Ntra. Sra. en cuerpo y alma a los Cielos.\n\n5. La Coronación de María Santísima como Reina y Señora de todo lo creado."
+	},
+	{
+		"nombre":"20) Letanías de la Ssma. Virgen",
+		"title":"Letanías de la Santísima Virgen",
+		"contenido_esp":"Señor, ten piedad,\n\n\u00BBSeñor, ten piedad.\n\nCristo, ten piedad,\n\n\u00BBCristo, ten piedad.\n\nSeñor, ten piedad,\n\n\u00BBSeñor, ten piedad.\n\nCristo, óyenos,\n\n\u00BBCristo, óyenos.\n\nCristo, escúchanos,\n\n\u00BBCristo, escúchanos.\n\nDios, Padre celestial,\n\n\u00BBten piedad de nosotros.\n\nDios, Hijo, Redentor del mundo,\n\n\u00BBten piedad de nosotros.\n\nDios, Espíritu Santo,\n\n\u00BBten piedad de nosotros.\n\nTrinidad Santa, que eres un solo, Dios,\n\n\u00BBten piedad de nos.\n\nSanta María,\n\n\u00BBruega por nosotros.\n\nSanta Madre de Dios,\n\n\u00BBruega por nosotros.\n\nSanta Virgen de las Vírgenes,\n\n\u00BBruega por nosotros.\n\nMadre de Cristo,\n\n\u00BBruega por nosotros.\n\nMadre de la Iglesia,\n\n\u00BBruega por nosotros.\n\nMadre de la divina gracia,\n\n\u00BBruega por nosotros.\n\nMadre purísima,\n\n\u00BBruega por nosotros.\n\nMadre castísima,\n\n\u00BBruega por nosotros.\n\nMadre intacta,\n\n\u00BBruega por nosotros.\n\nMadre sin mancha de pecado,\n\n\u00BBruega por nosotros.\n\nMadre inmaculada,\n\n\u00BBruega por nosotros.\n\nMadre amable,\n\n\u00BBruega por nosotros.\n\nMadre admirable,\n\n\u00BBruega por nosotros.\n\nMadre del Buen Consejo,\n\n\u00BBruega por nosotros.\n\nMadre del Creador,\n\n\u00BBruega por nosotros.\n\nMadre del Salvador,\n\n\u00BBruega por nosotros.\n\nVirgen prudentísima,\n\n\u00BBruega por nosotros.\n\nVirgen digna de veneración,\n\n\u00BBruega por nosotros.\n\nVirgen digna de alabanza,\n\n\u00BBruega por nosotros.\n\nVirgen poderosa,\n\n\u00BBruega por nosotros.\n\nVirgen clemente,\n\n\u00BBruega por nosotros.\n\nVirgen fiel,\n\n\u00BBruega por nosotros.\n\nEspejo de justicia,\n\n\u00BBruega por nosotros.\n\nTrono de Sabiduría,\n\n\u00BBruega por nosotros.\n\nCausa de nuestra alegría,\n\n\u00BBruega por nosotros.\n\nVaso espiritual,\n\n\u00BBruega por nosotros.\n\nVaso digno de honor,\n\n\u00BBruega por nosotros.\n\nVaso insigne de devoción,\n\n\u00BBruega por nosotros.\n\nRosa mística,\n\n\u00BBruega por nosotros.\n\nTorre de David,\n\n\u00BBruega por nosotros.\n\nTorre de marfil,\n\n\u00BBruega por nosotros.\n\nCasa de oro,\n\n\u00BBruega por nosotros.\n\nArca de la alianza,\n\n\u00BBruega por nosotros.\n\nPuerta del cielo,\n\n\u00BBruega por nosotros.\n\nEstrella de la mañana,\n\n\u00BBruega por nosotros.\n\nSalud de los enfermos,\n\n\u00BBruega por nosotros.\n\nRefugio de los pecadores,\n\n\u00BBruega por nosotros.\n\nConsuelo de los afligidos,\n\n\u00BBruega por nosotros.\n\nAuxilio de los cristianos,\n\n\u00BBruega por nosotros.\n\nReina de los Ángeles,\n\n\u00BBruega por nosotros.\n\nReina de los Patriarcas,\n\n\u00BBruega por nosotros.\n\nReina de los Profetas,\n\n\u00BBruega por nosotros.\n\nReina de los Apóstoles,\n\n\u00BBruega por nosotros.\n\nReina de los Mártires,\n\n\u00BBruega por nosotros.\n\nReina de los Confesores,\n\n\u00BBruega por nosotros.\n\nReina de las Vírgenes,\n\n\u00BBruega por nosotros.\n\nReina de todos los Santos,\n\n\u00BBruega por nosotros.\n\nReina concebida sin pecado original,\n\n\u00BBruega por nosotros.\n\nReina elevada al cielo,\n\n\u00BBruega por nosotros.\n\nReina del Santísimo Rosario,\n\n\u00BBruega por nosotros.\n\nReina de la familia,\n\n\u00BBruega por nosotros.\n\nReina de la paz,\n\n\u00BBruega por nosotros.\n\nCordero de Dios, que quitas el pecado del mundo,\n\n\u00BBperdónanos, Señor.\n\nCordero de Dios, que quitas el pecado del mundo,\n\n\u00BBescúchanos, Señor.\n\nCordero de Dios, que quitas el pecado del mundo,\n\n\u00BBten piedad y misericordia de nosotros.\n\nRuega por nosotros, Santa Madre de Dios,\n\n\u00BBpara que seamos dignos de alcanzar las divinas gracias y promesas de nuestro Señor Jesucristo. Amén.\n\nOremos. Concede, Señor, a nosotros tus siervos, gozar de perpetua salud del alma y del cuerpo, y que, por la gloriosa intercesión de la Bienaventurada siempre Virgen María, nos veamos libres de las tristezas de este mundo y gocemos de la eterna alegría. Por Cristo nuestro Señor. Amén"
+	},
+	{
+		"nombre":"21) Los siete dolores de la Ssma. Virgen",
+		"title":"Los siete dolores de la Ssma. Virgen",
+		"instrucciones":"Se meditan en el Rosario de la Mater Dolorosa (#22).",
+		"contenido_esp":"1) La Profecía del santo anciano Simeón.\n\n2) La Huida a Egipto de la Sagrada Familia.\n\n3) La Pérdida del Niño Jesús en el Templo.\n\n4) Jesús con la Cruz a cuestas encuentra a su Santísima Madre.\n\n5) La Crucifixión y Muerte de nuestro Señor Jesucristo y María al pie de la Cruz.\n\n6) El Descendimiento de la Cruz y Jesús en los brazos de su Santísima Madre.\n\n7) La Sepultura de nuestro Señor y la Soledad de María."
+	},
+	{
+		"nombre":"22) Cómo rezar rosario de la Mater Dolorosa",
+		"title":"Cómo rezar rosario de la Mater Dolorosa",
+		"contenido_esp":"Se reza como el Rosario indicado (#18), los martes, viernes y sábados, con la diferencia que en vez de los Cinco misterios hay Siete dolores (#21). Cada dolor se anuncia: En el (1er) dolor de la Santísima Virgen contemplamos: (La Profecía...) y se sugiere dejar unos momentos de silencio para meditar el misterio y ofrecerlo por una intención; luego se reza 1 Padre nuestro, 7 Ave marías y 1 Gloria. Rezados los Siete dolores se hace por las intenciones del Papa (#18) y se cierra con las Letanías de la Mater Dolorosa (#23). Por decreto de la Penitenciaria Apostólica concedido a los miembros de Miles Christi –y a quienes se unan a ellos– este Rosario goza de iguales Indulgencias (Plenarias) que las del Rosario habitual."
+	},
+	{
+		"nombre":"23) Letanías de la Mater Dolorosa",
+		"title":"Letanías de la Mater Dolorosa",
+		"contenido_esp":"Señor, ten piedad,\n\n\u00BBSeñor, ten piedad.\n\nCristo, ten piedad,\n\n\u00BBCristo, ten piedad.\n\nSeñor, ten piedad,\n\n\u00BBSeñor, ten piedad.\n\nCristo, óyenos,\n\n\u00BBCristo, óyenos.\n\nCristo, escúchanos,\n\n\u00BBCristo, escúchanos.\n\nDios, Padre celestial,\n\n\u00BBten piedad de nosotros.\n\nDios, Hijo, Redentor del mundo,\n\n\u00BBten piedad de nos.\n\nDios, Espíritu Santo,\n\n\u00BBten piedad de nosotros.\n\nTrinidad Santa, que eres un solo, Dios,\n\n\u00BBten piedad de nos.\n\nSanta María,\n\n\u00BBruega por nosotros.\n\nSanta Madre de Dios,\n\n\u00BBruega por nosotros.\n\nSanta Virgen de las Vírgenes,\n\n\u00BBruega por nosotros.\n\nMadre crucificada,\n\n\u00BBruega por nosotros.\n\nMadre dolorosa,\n\n\u00BBruega por nosotros.\n\nMadre lacrimosa,\n\n\u00BBruega por nosotros.\n\nMadre afligida,\n\n\u00BBruega por nosotros.\n\nMadre abandonada,\n\n\u00BBruega por nosotros.\n\nMadre desolada,\n\n\u00BBruega por nosotros.\n\nMadre privada del Hijo,\n\n\u00BBruega por nosotros.\n\nMadre traspasada por la espada, ruega por nosotros.\n\nMadre abrumada de dolores,\n\n\u00BBruega por nosotros.\n\nMadre llena de angustias,\n\n\u00BBruega por nosotros.\n\nMadre clavada a la Cruz en su corazón, ruega por nos.\n\nMadre tristísima,\n\n\u00BBruega por nosotros.\n\nFuente de lágrimas,\n\n\u00BBruega por nosotros.\n\nCúmulo de sufrimientos,\n\n\u00BBruega por nosotros.\n\nEspejo de paciencia,\n\n\u00BBruega por nosotros.\n\nRoca de constancia,\n\n\u00BBruega por nosotros.\n\nAncla de confianza,\n\n\u00BBruega por nosotros.\n\nRefugio de los abandonados,\n\n\u00BBruega por nosotros.\n\nEscudo de los oprimidos,\n\n\u00BBruega por nosotros.\n\nVencedora de los incrédulos,\n\n\u00BBruega por nosotros.\n\nSolaz de los míseros,\n\n\u00BBruega por nosotros.\n\nMedicina de los enfermos,\n\n\u00BBruega por nosotros.\n\nFortaleza de los débiles,\n\n\u00BBruega por nosotros.\n\nPuerto de los náufragos,\n\n\u00BBruega por nosotros.\n\nApaciguadora de las tormentas,\n\n\u00BBruega por nosotros.\n\nRecurso de los necesitados,\n\n\u00BBruega por nosotros.\n\nTerror de los que incitan al mal,\n\n\u00BBruega por nosotros.\n\nInspiración de los Profetas,\n\n\u00BBruega por nosotros.\n\nTesoro de los Fieles,\n\n\u00BBruega por nosotros.\n\nBáculo de los Apóstoles,\n\n\u00BBruega por nosotros.\n\nCorona de los Mártires,\n\n\u00BBruega por nosotros.\n\nLuz de los Confesores,\n\n\u00BBruega por nosotros.\n\nFlor de las Vírgenes,\n\n\u00BBruega por nosotros.\n\nConsuelo de las Viudas,\n\n\u00BBruega por nosotros.\n\nAlegría de todos los Santos,\n\n\u00BBruega por nosotros.\n\nCordero de Dios, que quitas el pecado del mundo,\n\n\u00BBperdónanos, Señor.\n\nCordero de Dios, que quitas el pecado del mundo,\n\n\u00BBescúchanos, Señor.\n\nCordero de Dios, que quitas el pecado del mundo,\n\n\u00BBten piedad y misericordia de nosotros.\n\nRuega por nosotros, Santa Madre de Dios, \n\n\u00BBpara que seamos dignos de alcanzar las divinas gracias y promesas de nuestro Señor Jesucristo. Amén.\n\nOremos. Dios, en cuya Pasión fue traspasada de dolor el alma dulcísima de la gloriosa Virgen y Madre María, según la profecía de Simeón; concédenos propicio, que cuantos recordamos con veneración sus dolores consigamos el efecto feliz de tu Pasión. Que vives y reinas por los siglos de los siglos. Amén."
+	},
+	{
+		"nombre":"24) Visita al Santísimo Sacramento",
+		"title":"Visita al Santísimo Sacramento",
+		"contenido_esp":"U: En el nombre del Padre, y del Hijo, y del Espíritu Santo.\n\nT: Amén.\n\nU: Bendito y alabado sea el Santísimo Sacramento del Altar.\n\nT: Sea por siempre bendito y alabado.\n\nU: Gloria al Padre, y al Hijo, y al Espíritu Santo.\n\nT: Como era en el principio, ahora y siempre, y por los siglos de los siglos. Amén.\n\n\u00BB(Desde “Bendito y alabado” se repite dos veces más)\n\n\n\n● a) COMUNIÓN ESPIRITUAL\n\nU: Señor Jesús, creo firmemente que estás en el Santísimo Sacramento. Te adoro como Dios verdadero aquí oculto. Por mis pecados te pido perdón. Y porque te amo sobre todas las cosas, deseo recibirte espiritualmente en este momento.\n\n\u00BB(Pausa  ~  Comunión espiritual)\n\nU: Habiéndome unido a Ti, te doy gracias y me someto enteramente a tu Santa Voluntad.\n\n\n\n● b) ALMA DE CRISTO\n\nAlma de Cristo,\t\u00BBsantifícame.\n\nCuerpo de Cristo,\t\u00BBsálvame.\n\nSangre de Cristo,\t\u00BBembriágame.\n\nAgua del costado de Cristo,\t\u00BBlávame.\n\nPasión de Cristo,\t\u00BBconfórtame.\n\n¡Oh, buen Jesús!,\t\u00BBóyeme.\n\nDentro de tus llagas,\t\u00BBescóndeme.\n\nNo permitas,\t\u00BBque me aparte de ti.\n\nDel maligno enemigo,\t\u00BBdefiéndeme.\n\nEn la hora de mi muerte,\t\u00BBllámame.\n\nY mándame ir a Ti, para que con tus santos te alabe por los siglos de los siglos. Amén.\n\n\n\n● c) CONSAGRACIÓN A LA VIRGEN MARÍA\n\nU: ¡Oh, Señora mía! ¡Oh, Madre mía! Yo me ofrezco enteramente a ti; y en prueba de mi filial afecto, te consagro en este día mis ojos, mis oídos, mi lengua, mi corazón; en una palabra, todo mi ser. Ya que soy todo tuyo, Madre de bondad, guárdame y defiéndeme como cosa y posesión tuya. \n\nT: Amén.\n\n\n\n● d) ORACIÓN A SAN JOSÉ\n\nU: Glorioso Patriarca San José, cuyo poder sabe hacer posibles las cosas imposibles, ven en mi ayuda en estos momentos de angustia y dificultad. Toma, bajo tu protección, las situaciones tan serias y difíciles que te encomiendo, a fin de que tengan una feliz solución.\n\n\u00BB(Pausa ~ Petición a San José)\n\nU: Mi bienamado Padre: toda mi confianza está puesta en ti. Que no se diga que te he invocado en vano. Y, puesto que tú puedes todo ante Jesús y María, muéstrame que tu bondad es tan grande como tu poder.\n\nT: Amén.\n\nU: San Miguel, Arcángel, Príncipe de la milicia Celestial.\n\nT: Protege a la Santa Iglesia Católica.\n\nU: En el nombre del Padre, y del Hijo, y del Espíritu Santo.\n\nT: Amén."
+	},
+	{
+		"nombre":"25) Oración de la mañana",
+		"title":"Oración de la mañana",
+		"instrucciones":"Se puede agregar Oración “Bendita sea tu pureza” (#12); el “Ángelus” (#14) o, en Pascua, el “Regina Cǽli” (#15); y la “Oración al Ángel de la guarda” (#34).",
+		"contenido_esp":"Señor y Dios mío, en quien creo, en quien espero, y a quien adoro y amo con todo mi corazón, te doy gracias por haberme creado, redimido, hecho cristiano, y por haberme conservado en esta noche.\n\nTe ofrezco todos mis pensamientos, palabras, obras y trabajos de este día, a mayor gloria tuya, en penitencia por mis pecados y en sufragio de las almas del purgatorio. Dame, Señor, tu gracia, para que pueda servirte fielmente en este día, y me vea siempre libre de todo pecado y de todo mal. Amén."
+	},
+	{
+		"nombre":"26) Oración de la noche",
+		"title":"Oración de la noche",
+		"instrucciones":"Comenzar con un Examen de conciencia de los pensamientos, palabras, obras y omisiones del día, rezando luego el “Acto de contrición” (#9).\n\n\n\nConcluir rezando la antífona “Salve Regina” (#11) –o “Regina Cǽli” (#15) en Pascua–; o con la Oración “Bajo tu amparo” (#16).",
+		"contenido_esp":"Te suplicamos, Señor, que visites esta habitación: aleja de ella las asechanzas del Enemigo; que tus Santos Ángeles habiten en ella, que nos guarden en paz y que tu bendición permanezca siempre con nosotros. Por Cristo nuestro Señor. Amén.\n\nRezamos tres Avemarías en honor a la pureza de la Santísima Virgen, y pidiendo la nuestra."
+	},
+	{
+		"nombre":"27) Ven, Espíritu Santo",
+		"title":"Ven, Espíritu Santo",
+		"contenido_esp":"U: Ven, Espíritu Santo, llena los corazones de tus fieles y enciende en ellos el fuego de tu amor.\n\nU: Envía tu Espíritu, y serán creadas todas las cosas.\n\nT: Y renovarás la faz de la tierra.\n\nU: Oremos. Dios, que has instruido los corazones de tus fieles con la luz del Espíritu Santo, haz que, guiados por este mismo Espíritu, gustemos las cosas santas y gocemos siempre de su divino consuelo. Por Cristo nuestro Señor.\n\nT: Amén."
+	},
+	{
+		"nombre":"28) Para comenzar la meditación",
+		"title":"Para comenzar la meditación",
+		"contenido_esp":"Señor y Dios mío: creo que estás presente en todo lugar; que estás aquí, dentro de mí; que me ves; que me oyes.\n\nTe adoro con profunda humildad y reverencia. Te pido perdón por mis pecados.\n\nY, aunque soy indigno de presentarme delante tuyo, confiado en tu infinita misericordia, te pido ayuda para hacer con provecho este rato de oración, que ofrezco a tu mayor gloria. Amén."
+	},
+	{
+		"nombre":"29) Para terminar la meditación",
+		"title":"Para terminar la meditación",
+		"contenido_esp":"Señor y Dios mío: te doy gracias por los buenos pensamientos, afectos y propósitos que me has inspirado en este rato de oración.\n\nTe los ofrezco a tu mayor gloria, y te pido gracia eficaz para ponerlos en práctica. Que pueda cumplir en todas las cosas tu Santa Voluntad. Amén."
+	},
+	{
+		"nombre":"30) Bendición de los alimentos",
+		"title":"Bendición de los alimentos",
+		"contenido_esp":"U: Bendícenos, Señor, y bendice estos alimentos que recibimos de tu generosidad. Bendice a quienes los han preparado y dales el pan a los que no lo tienen. Por Cristo nuestro Señor.\n\nT: Amén.\n\nU: El Rey de la eterna gloria nos haga partícipes de la Mesa Celestial.\n\nT: Amén."
+	},
+	{
+		"nombre":"31) Acción de gracias por los alimentos",
+		"title":"Acción de gracias por los alimentos",
+		"contenido_esp":"U: Te damos gracias, Señor, por estos beneficios recibidos de tus manos para mantenernos en tu santo servicio. Por Cristo nuestro Señor.\n\nT: Amén.\n\nU: Bendigamos al Señor.\n\nT: Demos gracias a Dios."
+	},
+	{
+		"nombre":"32) Acción de gracias (en general)",
+		"title":"Acción de gracias (en general)",
+		"contenido_esp":"Te damos gracias, Dios omnipotente, por todos los beneficios que hemos recibido de tus manos. Por Cristo nuestro Señor. Amén."
+	},
+	{
+		"nombre":"33) Acordaos",
+		"title":"Acordaos",
+		"contenido_esp":"Acordaos, oh piadosísima Virgen María, que jamás se oyó decir que ninguno de los que han acudido a vuestra protección implorando vuestra asistencia y reclamando vuestro socorro, haya sido abandonado de Vos. Animado con esta confianza, a Vos también acudo, oh Madre, Virgen de las Vírgenes, y gimiendo bajo el peso de mis pecados me atrevo a comparecer ante vuestra presencia soberana. Oh Madre de Dios, no despreciéis mis súplicas, antes bien escuchadlas y acogedlas benignamente. Amén."
+	},
+	{
+		"nombre":"34) Al Ángel custodio",
+		"title":"Al Ángel custodio",
+		"contenido_esp":"Ángel de Dios, que eres mi custodio, ya que la soberana piedad me ha encomendado a ti, ilumíname, guárdame, rígeme y gobiérname. Amén."
+	},
+	{
+		"nombre":"35) A San Miguel Árcangel",
+		"title":"A San Miguel Árcangel",
+		"contenido_esp":"Arcángel San Miguel, defiéndenos en la batalla; sé nuestro amparo contra las perversidades y asechanzas del demonio. “Reprímale Dios”, pedimos suplicantes; y tú, Príncipe de la milicia celestial, arroja al infierno con el divino poder a Satanás y a los otros espíritus malignos, que andan dispersos por el mundo para la perdición de las almas. Amén."
+	},
+	{
+		"nombre":"36) Principio y fundamento (S. Ignacio de Loyola)",
+		"title":"Principio y fundamento (S. Ignacio de Loyola)",
+		"contenido_esp":"El hombre es criado para alabar, hacer reverencia y servir a Dios nuestro Señor, y mediante esto salvar su ánima; y las otras cosas sobre la haz de la tierra son criadas para el hombre y para que le ayuden en la prosecución del fin para que es criado. De donde se sigue que el hombre tanto ha de usar de ellas, cuanto le ayudan para su fin, y tanto debe quitarse de ellas, cuanto para ello le impiden. Por lo cual es menester hacernos indiferentes a todas las cosas criadas, en todo lo que es concedido a la libertad de nuestro libre albedrío y no le está prohibido; en tal manera que no queramos de nuestra parte más salud que enfermedad, riqueza que pobreza, honor que deshonor, vida larga que corta, y por consiguiente en todo lo demás; solamente deseando y eligiendo lo que más nos conduce para el fin que somos criados. (Ejercicios Espirituales, [23])"
+	},
+	{
+		"nombre":"37) Preparación para la Santa Misa",
+		"title":"Preparación para la Santa Misa",
+		"instrucciones":"(De Santo Tomás de Aquino)",
+		"contenido_esp":"Dios todopoderoso y eterno, aquí vengo al sacramento de tu Hijo único, nuestro Señor Jesucristo; vengo como enfermo al médico de la vida, como impuro a la fuente de la misericordia, como ciego a la luz de la claridad eterna, como pobre e indigente al Señor del cielo y de la tierra.\n\nImploro, pues, la abundancia de tu inmensa generosidad, para que te dignes curar mi enfermedad, lavar mi suciedad, iluminar mi ceguera, enriquecer mi pobreza, vestir mi desnudez; y así pueda recibir el pan de los Ángeles, al Rey de reyes y Señor de señores, con tanta reverencia y humildad, con tanta contrición y devoción, con tanta pureza y fe, con tal propósito e intención, como conviene para la salud de mi alma.\n\nDame, te ruego, que no sólo reciba el sacramento del Cuerpo y de la Sangre del Señor, sino también la gracia y la virtud del sacramento.\n\nDios de mansedumbre, concédeme, así, recibir el Cuerpo de tu Hijo único, nuestro Señor Jesucristo, que Él tomó de la Virgen María, para que merezca ser incorporado a su Cuerpo Místico y contado entre sus miembros.\n\nPadre lleno de amor, concédeme contemplar por toda la eternidad el rostro revelado de tu amado Hijo que, ahora oculto, me propongo recibir en el camino de esta vida.\n\nQue contigo vive y reina en la unidad del Espíritu Santo Dios, por los siglos de los siglos. Amén."
+	},
+	{
+		"nombre":"38) Acción de gracias después de la comunión",
+		"title":"Acción de gracias después de la comunión",
+		"instrucciones":"(De Santo Tomás de Aquino)",
+		"contenido_esp":"Te doy gracias, Señor, Padre santo, Dios todopoderoso y eterno, porque, sin ningún mérito mío, sino por la sola condescendencia de tu misericordia te has dignado alimentarme, a mí, pecador e indigno siervo tuyo, con el Cuerpo y la Sangre de tu Hijo, nuestro Señor Jesucristo.\n\nTe pido, Padre, que esta Santa Comunión no sea para mí, motivo de condenación sino intercesión salvadora de perdón.\n\nQue sea armadura de mi fe, escudo de mi buena voluntad, muerte de todos mis vicios y extinción de la concupiscencia y de los deseos carnales.\n\nSignifique también para mí un aumento de caridad y de paciencia, de humildad y de obediencia, y de todas las virtudes.\n\nQue sea firme defensa contra las asechanzas de todos mis enemigos, visibles e invisibles; perfecto sosiego de mis inquietudes tanto carnales como espirituales; firme unión contigo, Dios, uno y verdadero, y consumación feliz de mi muerte.\n\nY te ruego te dignes llevarme a mí, pecador, a aquel banquete inefable del cielo, donde Tú, con tu Hijo y el Espíritu Santo, eres para tus Santos, luz verdadera, satisfacción plena, gozo perdurable, dicha consumada y felicidad perfecta.\n\nPor Cristo nuestro Señor. Amén."
+	},
+	{
+		"nombre":"39) Oración universal",
+		"title":"Oración universal",
+		"instrucciones":"(También para rezar luego de la Santa Misa. Atribuida al Papa Clemente XI)",
+		"contenido_esp":"Creo, Señor, fortalece mi fe; espero, Señor, asegura mi esperanza; amo, Señor, inflama mi amor; me pesa, Señor, aumenta mi arrepentimiento.\n\nTe adoro como a primer principio, te deseo como a último fin, te alabo como a bienhechor perpetuo, te invoco como a defensor propicio.\n\nDirígeme con tu sabiduría, contenme con tu justicia, consuélame con tu clemencia, protégeme con tu poder.\n\nTe ofrezco, Señor, mis pensamientos para pensar en Ti, mis palabras para hablar de Ti, mis obras para obrar conforme a Ti, mis sufrimientos para padecerlos por Ti.\n\nQuiero lo que Tú quieres, lo quiero porque lo quieres, lo quiero como lo quieres, lo quiero en cuanto lo quieres.\n\nTe ruego, Señor, que alumbres mi entendimiento, abrases mi voluntad, purifiques mi corazón, santifiques mi alma.\n\nNo me inficione la soberbia, no me altere la adulación, no me engañe el mundo, no me prenda en sus redes el demonio.\n\nConcédeme la gracia de depurar la memoria, refrenar la lengua, recoger la vista, mortificar los sentidos.\n\nLlore los pecados pasados, rechace las tentaciones futuras, corrija las inclinaciones viciosas, cultive las virtudes necesarias.\n\nConcédeme, Dios bueno, amor a Ti, olvido de mí, celo del prójimo, desprecio del mundo.\n\nProcure obedecer a los superiores, atender a los inferiores, favorecer a los amigos, perdonar a los enemigos.\n\nVenza el deleite con la mortificación, la avaricia con la largueza, la ira con la mansedumbre, la tibieza con el fervor.\n\nHazme prudente en los consejos, constante en los peligros, paciente en las adversidades, humilde en las prosperidades.\n\nHaz, Señor, que sea en la oración, atento; en la comida, sobrio; en los deberes, diligente; en los propósitos, constante.\n\nQue procure tener inocencia interior, modestia exterior, conversación edificante, vida recta.\n\nQue me aplique con diligencia a domar la naturaleza, a corresponder a la gracia, a guardar tu ley, a merecer la salvación.\n\nQue consiga la santidad con la confesión sincera de mis pecados, con la participación devota del Cuerpo de Cristo, con el continuo recogimiento del espíritu, con la pura intención del corazón.\n\nAprenda de Ti qué frágil es lo terreno, qué grande lo divino, qué breve lo temporal, qué duradero lo eterno.\n\nConcédeme que me prepare a la muerte, que tema el juicio, que evite el infierno, que obtenga el paraíso.\n\nPor Cristo nuestro Señor. Amén."
+	},
+	{
+		"nombre":"40) Ofrecimiento de sí mismo ('Súscipe')",
+		"title":"Ofrecimiento de sí mismo ('Súscipe')",
+		"instrucciones":"(San Ignacio de Loyola, Ejercicios Espirituales [234])",
+		"contenido_esp":"Tomad, Señor, y recibid toda mi libertad, mi memoria, mi entendimiento y toda mi voluntad, todo mi haber y mi poseer; Vos me lo diste, a Vos, Señor, lo torno; todo es vuestro, disponed a toda vuestra voluntad; dadme vuestro amor y gracia, que ésta me basta."
+	},
+	{
+		"nombre":"41) Oración por las vocaciones (Pablo VI)",
+		"title":"Oración por las vocaciones (Pablo VI)",
+		"contenido_esp":"¡Señor Jesucristo!, divino Pastor de las almas, que llamaste a los Apóstoles para hacerlos pescadores de hombres: atrae hacia Ti las almas ardientes y generosas de los jóvenes, para hacerlos tus seguidores y ministros. Hazlos partícipes de tu sed de redención universal, por la cual renuevas tu Sacrificio sobre tus altares.\n\nDescúbreles el horizonte del mundo entero, donde la silenciosa súplica de tantos hermanos pide la luz de la verdad y el calor del amor; para que, respondiendo a tu llamado, prolonguen aquí en la tierra tu misión, edifiquen tu Cuerpo Místico, la Iglesia, y sean sal de la tierra y luz del mundo.\n\nExtiende, Señor, tu llamado a muchas almas generosas, e infúndeles el ansia de la perfección evangélica, y de la entrega al servicio de la Iglesia y de los hermanos necesitados de asistencia y caridad. Amén."
+	},
+	{
+		"nombre":"42) Letanías de la humildad (Card, Merry del Val)",
+		"title":"Letanías de la humildad (Card, Merry del Val)",
+		"contenido_esp":"Jesús, manso y humilde de corazón, óyeme:\n\nDel deseo de ser estimado,\n\n\u00BBlíbrame, Jesús.\n\nDel deseo de ser amado,\n\n\u00BBlíbrame, Jesús.\n\nDel deseo de ser ensalzado,\n\n\u00BBlíbrame, Jesús.\n\nDel deseo de ser respetado,\n\n\u00BBlíbrame, Jesús.\n\nDel deseo de ser alabado,\n\n\u00BBlíbrame, Jesús.\n\nDel deseo de ser preferido a los otros,\n\n\u00BBlíbrame, Jesús.\n\nDel deseo de ser consultado,\n\n\u00BBlíbrame, Jesús.\n\nDel deseo de ser aprobado,\n\n\u00BBlíbrame, Jesús.\n\nDel temor de ser humillado,\n\n\u00BBlíbrame, Jesús.\n\nDel temor de ser despreciado,\n\n\u00BBlíbrame, Jesús.\n\nDel temor de ser repulsado,\n\n\u00BBlíbrame, Jesús.\n\nDel temor de ser calumniado,\n\n\u00BBlíbrame, Jesús.\n\nDel temor de ser olvidado,\n\n\u00BBlíbrame, Jesús.\n\nDel temor de ser ridiculizado,\n\n\u00BBlíbrame, Jesús.\n\nDel temor de ser injuriado,\n\n\u00BBlíbrame, Jesús.\n\nDel temor de ser sospechado,\n\n\u00BBlíbrame, Jesús.\n\nJesús, hazme la gracia de desear:\n\nQue los otros sean más amados que yo,\n\nQue los otros sean más estimados que yo,\n\nQue los otros se engrandezcan en la opinión del mundo y yo disminuya,\n\nQue los otros sean elegidos y yo no,\n\nQue los otros sean ensalzados y yo desdeñado,\n\nQue los otros puedan serme preferidos en todo,\n\nQue los otros sean más santos que yo con tal que yo sea lo más santo que pueda ser.\n\nConcédeme, Jesús:\n\nEl conocimiento y el amor de mi nada,\n\nEl perpetuo recuerdo de mis pecados,\n\nLa persuasión de mi mezquindad,\n\nEl aborrecimiento de toda vanidad,\n\nLa pura intención de servir a Dios,\n\nLa perfecta sumisión a la Voluntad del Padre,\n\nEl verdadero espíritu de compunción,\n\nLa ciega obediencia a los superiores,\n\nEl odio santo a toda envidia y celo,\n\nLa prontitud en el perdón de las ofensas,\n\nLa prudencia en callar los asuntos ajenos,\n\nLa paz y la caridad con todos,\n\nEl ardiente anhelo de desprecio y humillaciones,\n\nEl ansia de ser tratado como Tú,\n\nY la gracia de saber aceptarlo santamente.\n\nSanta María, Reina, Madre y Maestra de los humildes,\n\n\u00BBruega por mí.\n\nSan José, protector y modelo de los humildes,\n\n\u00BBruega por mí.\n\nSan Miguel Arcángel, que fuiste el primero en abatir a los soberbios,\n\n\u00BBruega por mí.\n\nSantos todos, santificados por el espíritu de humildad,\n\n\u00BBrogad por mí.\n\nOremos. Señor Jesucristo, que siendo Dios te humillaste hasta la muerte y muerte de cruz para ser ejemplo perenne que confunda nuestro orgullo y amor propio, concédenos la gracia de imitar tu ejemplo, para que, humillándonos como corresponde a nuestras miserias aquí en la tierra, podamos ser ensalzados hasta gozar eternamente de Ti en el cielo. Amén."
+	},
+	{
+		"nombre":"43) Oración por el Papa",
+		"title":"Oración por el Papa",
+		"contenido_esp":"U: Roguemos por nuestro Pontífice N.\n\nT: El Señor lo conserve, lo fortalezca, lo haga feliz en la tierra, y no permita que caiga en manos de sus enemigos.\n\nU: Oremos. Dios, que en tu providencia quisiste edificar tu Iglesia sobre la roca de Pedro, príncipe de tus Apóstoles, mira con bondad a nuestro Papa N., y Tú que lo has constituido sucesor de San Pedro, concédele la gracia de ser para tu pueblo principio y fundamento visible de la unidad de fe y de comunión. Por Cristo nuestro Señor. \n\nT: Amén."
+	},
+	{
+		"nombre":"44) Oración por el Obispo",
+		"title":"Oración por el Obispo",
+		"contenido_esp":"U: Roguemos por nuestro Obispo N.\n\nT: Que permanezca y pastoree con tu fortaleza, Señor, según la grandeza de tu Nombre.\n\nU: Oremos. Dios, Pastor y guía de todos los fieles, mira con bondad a tu siervo N. a quien has hecho pastor de la Iglesia; concédele que su palabra y su ejemplo sean provechosos al pueblo que él preside, para que llegue a la vida eterna junto con el rebaño que le ha sido confiado. Por Cristo nuestro Señor. \n\nT: Amén."
+	},
+	{
+		"nombre":"45) Para encomendar el estudio",
+		"title":"Para encomendar el estudio",
+		"instrucciones":"(de Santo Tomás de Aquino, Patrono de los estudiantes)",
+		"contenido_esp":"Padre Providente, que eres llamado fuente de la luz y de la sabiduría: ilumina mi entendimiento y disipa las tinieblas en que he nacido, el pecado y la ignorancia.\n\nConcédeme la facultad de aprender, la facilidad para entender, la capacidad para retener, la sutileza para interpretar y el don de saber hablar.\n\nEnséñame a comenzar bien el estudio, y ayúdame a darle su debido término, a mayor gloria tuya. Por Cristo nuestro Señor. Amén.\n\nU: Santa María, Sede de la Sabiduría.\n\nT: Ruega por nosotros.\n\nU: Santo Tomás Aquino.\n\nT: Ruega por nosotros."
+	},
+	{
+		"nombre":"46) Para encomendar el trabajo",
+		"title":"Para encomendar el trabajo",
+		"contenido_esp":"Te ruego, Señor, que prevengas mis acciones con tu gracia y las continúes con tu auxilio, para que todas mis obras comiencen siempre en Ti y en Ti terminen. Por Cristo nuestro Señor. Amén.\n\nU: San José, nuestro Patrono.\n\nT: Ruega por nosotros."
+	},
+	{
+		"nombre":"47) Por la patria",
+		"title":"Por la patria",
+		"contenido_esp":"Dios, Padre nuestro, que, con admirable providencia gobiernas el mundo, atiende nuestros ruegos por nuestra Patria, para que la prudencia de sus autoridades y la honestidad de sus ciudadanos robustezcan la justicia, y podamos vivir siempre en paz. Por Cristo nuestro Señor. Amén."
+	},
+	{
+		"nombre":"48) Por los enfermos",
+		"title":"Por los enfermos",
+		"contenido_esp":"Señor Jesucristo, que para redimir a los hombres y sanar a los enfermos quisiste asumir nuestra condición humana; mira con piedad a N., que se halla enfermo y necesita ser curado en el cuerpo y en el espíritu. Reconfórtalo con tu poder para que levante su ánimo y pueda superar todos sus males; y, ya que has querido asociarlo a tu Pasión redentora, haz que confíe en la eficacia del dolor para la salvación del mundo. Tú que vives y reinas por los siglos de los siglos. Amén."
+	},
+	{
+		"nombre":"49) Por los difuntos",
+		"title":"Por los difuntos",
+		"contenido_esp":"U: Recibe, Señor, el alma de tu hijo/a N., a quien has llamado de este mundo a tu presencia; concédele que, libre de todos sus pecados, alcance la felicidad del descanso y de la luz eterna, y merezca unirse a tus santos y elegidos en la gloria de la resurrección. Por Cristo nuestro Señor. T: Amén.\n\nU: Dale, Señor, el descanso eterno.\n\nT: Y brille para él/ella la luz perpetua.\n\nU: Descanse en paz. T: Así sea.\n\nU: Que el alma de N. y las almas de todos los fieles difuntos por la misericordia de Dios descansen en paz.\n\nT: Así sea."
+	},
+	{
+		"nombre":"50) Letanías del Sagrado Corazón de Jesús",
+		"title":"Letanías del Sagrado Corazón de Jesús",
+		"contenido_esp":"Señor, ten piedad,\n\n\u00BBSeñor, ten piedad.\n\nCristo, ten piedad,\n\n\u00BBCristo, ten piedad.\n\nSeñor, ten piedad,\n\n\u00BBSeñor, ten piedad.\n\nCristo, óyenos,\n\n\u00BBCristo, óyenos.\n\nCristo, escúchanos,\n\n\u00BBCristo, escúchanos.\n\nDios, Padre celestial,\n\n\u00BBten piedad de nosostros.\n\nDios, Hijo, Redentor del mundo,\n\n\u00BBten piedad de nosotros.\n\nDios, Espíritu Santo,\n\n\u00BBten piedad de nosotros.\n\nTrinidad Santa, que eres un solo Dios,\n\n\u00BBten piedad de nosotros.\n\nCorazón de Jesús, Hijo del Eterno Padre,\n\n\u00BBten piedad de nosotros.\n\nCorazón de Jesús, formado por el Espíritu Santo en el seno de la Virgen Madre,\n\n\u00BBten piedad de nosotros.\n\nCorazón de Jesús, unido sustancialmente al Verbo de Dios,\n\nCorazón de Jesús, de majestad infinita,\n\nCorazón de Jesús, templo santo de Dios,\n\nCorazón de Jesús, tabernáculo del Altísimo,\n\nCorazón de Jesús, casa de Dios y puerta del cielo,\n\nCorazón de Jesús, hoguera ardiente de caridad,\n\nCorazón de Jesús, receptáculo de justicia y amor,\n\nCorazón de Jesús, lleno de amor y bondad,\n\nCorazón de Jesús, abismo de todas las virtudes,\n\nCorazón de Jesús, dignísimo de toda alabanza,\n\nCorazón de Jesús, rey y centro de todos los corazones,\n\nCorazón de Jesús, en quien están todos los tesoros de la sabiduría y de la ciencia,\n\nCorazón de Jesús, en quien habita toda la plenitud de la Divinidad,\n\nCorazón de Jesús, en quien el Padre ha puesto toda su complacencia,\n\nCorazón de Jesús, de cuya plenitud todos hemos recibido,\n\nCorazón de Jesús, deseo de los collados eternos,\n\nCorazón de Jesús, paciente y misericordioso,\n\nCorazón de Jesús, rico para con todos los que te invocan,\n\nCorazón de Jesús, fuente de vida y de santidad,\n\nCorazón de Jesús, propiciación por nuestros pecados,\n\nCorazón de Jesús, saturado de oprobios,\n\nCorazón de Jesús, quebrantado por nuestros pecados,\n\nCorazón de Jesús, hecho obediente hasta la muerte,\n\nCorazón de Jesús, traspasado por la lanza,\n\nCorazón de Jesús, fuente de toda consolación,\n\nCorazón de Jesús, vida y resurrección nuestra,\n\nCorazón de Jesús, paz y reconciliación nuestra,\n\nCorazón de Jesús, víctima de los pecadores,\n\nCorazón de Jesús, salvación de los que esperan en Ti,\n\nCorazón de Jesús, esperanza de los que mueren en Ti,\n\nCorazón de Jesús, delicia de todos los santos,\n\nCordero de Dios, que quitas el pecado del mundo,\n\n\u00BBperdónanos, Señor.\n\nCordero de Dios, que quitas el pecado del mundo,\n\n\u00BBescúchanos, Señor.\n\nCordero de Dios, que quitas el pecado del mundo,\n\n\u00BBten piedad y misericordia de nosotros.\n\nU: Jesús, manso y humilde de corazón.\n\nT: Haz nuestro corazón semejante al Tuyo. Amén\n\nOremos. Dios todopoderoso y eterno, mira el Corazón de tu amado Hijo y las alabanzas y satisfacciones que te ofreció en nombre de los pecadores, y a los que imploramos tu misericordia concédenos el perdón, en nombre del mismo nuestro Señor Jesucristo, tu Hijo, que vive y reina contigo en la unidad del Espíritu Santo y es Dios, por los siglos de los siglos. Amén."
+	},
+	{
+		"nombre":"51) Acto de consagración a Cristo Rey",
+		"title":"Acto de consagración a Cristo Rey",
+		"instrucciones":"(Pío XI; Ind. Plenaria rezada en público en Solem. de Cristo Rey)",
+		"contenido_esp":"Dulcísimo Jesús, Redentor del género humano, míranos humildemente postrados delante de tu altar: somos tuyos y tuyos queremos ser, y para poder vivir más estrechamente unidos a Ti, nos consagramos en este día a tu Sacratísimo Corazón.\n\nMuchos, por desgracia, jamás te han conocido: muchos, despreciando tus mandamientos, te han desechado. ¡Oh Jesús benignísimo!, compadécete de unos y otros, y atráelos a todos a tu Corazón Santísimo.\n\n¡Señor!, sé Rey, no sólo de los hijos fieles que jamás se han alejado de Ti, sino también de los pródigos que te han abandonado; haz que vuelvan pronto a la casa paterna, para que no perezcan de hambre y de miseria.\n\nSé Rey de aquellos que, por seducción del error o por espíritu de discordia, viven separados de Ti: devuélvelos al puerto de la verdad y a la unidad de la fe, para que en breve se forme un solo rebaño bajo un solo Pastor.\n\nConcede, Señor, incolumidad y libertad segura a tu Iglesia; otorga a todos los pueblos la tranquilidad en el orden; haz que del uno al otro confín de la tierra no resuene sino esta voz: “¡Alabado sea el Corazón divino, causa de nuestra salud; a Él se entonen cánticos de honor y de gloria por los siglos de los siglos!” Amén."
+	},
+	{
+		"nombre":"52) Letanías de San José",
+		"title":"Letanías de San José",
+		"contenido_esp":"Señor, ten piedad,\n\n\u00BBSeñor, ten piedad.\n\nCristo, ten piedad,\n\n\u00BBCristo, ten piedad.\n\nSeñor, ten piedad,\n\n\u00BBSeñor, ten piedad.\n\nCristo, óyenos,\n\n\u00BBCristo, óyenos.\n\nCristo, escúchanos,\n\n\u00BBCristo, escúchanos.\n\nDios, Padre celestial,\n\n\u00BBten piedad de nosotros.\n\nDios, Hijo, Redentor del mundo,\n\n\u00BBten piedad de nosotros.\n\nDios, Espíritu Santo,\n\n\u00BBten piedad de nosotros.\n\nTrinidad Santa, que eres un solo Dios,\n\n\u00BBten piedad de nosotros.\n\nSanta María,\n\n\u00BBruega por nosotros.\n\nSan José,\n\n\u00BBruega por nosotros.\n\nIlustre descendiente de David,\n\n\u00BBruega por nosotros.\n\nLuz de los Patriarcas,\n\n\u00BBruega por nosotros.\n\nEsposo de la Madre de Dios,\n\n\u00BBruega por nosotros.\n\nCasto custodio de la Virgen,\n\n\u00BBruega por nosotros.\n\nPadre adoptivo del Hijo de Dios,\n\n\u00BBruega por nosotros.\n\nCeloso defensor de Cristo,\n\n\u00BBruega por nosotros.\n\nCabeza de la Sagrada Familia,\n\n\u00BBruega por nosotros.\n\nJosé justísimo,\n\n\u00BBruega por nosotros.\n\nJosé castísimo,\n\n\u00BBruega por nosotros.\n\nJosé prudentísimo,\n\n\u00BBruega por nosotros.\n\nJosé fortísimo,\n\n\u00BBruega por nosotros.\n\nJosé obedientísimo,\n\n\u00BBruega por nosotros.\n\nJosé fidelísimo,\n\n\u00BBruega por nosotros.\n\nEspejo de paciencia,\n\n\u00BBruega por nosotros.\n\nAmante de la pobreza,\n\n\u00BBruega por nosotros.\n\nModelo de los trabajadores,\n\n\u00BBruega por nosotros.\n\nGloria de la vida doméstica,\n\n\u00BBruega por nosotros.\n\nCustodio de las vírgenes,\n\n\u00BBruega por nosotros.\n\nSostén de las familias,\n\n\u00BBruega por nosotros.\n\nConsuelo de los desdichados,\n\n\u00BBruega por nosotros.\n\nEsperanza de los enfermos,\n\n\u00BBruega por nosotros.\n\nPatrono de los moribundos,\n\n\u00BBruega por nosotros.\n\nTerror de los demonios,\n\n\u00BBruega por nosotros.\n\nProtector de la Santa Iglesia,\n\n\u00BBruega por nosotros.\n\nCordero de Dios, que quitas el pecado del mundo,\n\n\u00BBperdónanos, Señor.\n\nCordero de Dios, que quitas el pecado del mundo,\n\n\u00BBescúchanos, Señor.\n\nCordero de Dios, que quitas el pecado del mundo,\n\n\u00BBten piedad de nosotros.\n\nU: Lo nombró administrador de su casa.\n\nT: Y Señor de todas sus posesiones.\n\nOremos. Dios, que en tu admirable providencia elegiste a San José para ser esposo de la Santísima Madre de tu Hijo, concédenos como intercesor en el cielo, a quien veneramos como protector en la tierra. Por Cristo nuestro Señor. Amén."
+	},
+	{
+		"nombre":"53) A ti, Bienaventurado José (Papa León XIII)",
+		"title":"A ti, Bienaventurado José (Papa León XIII)",
+		"contenido_esp":"A ti, bienaventurado José, recurrimos en nuestra tribulación, y después de haber implorado el auxilio de tu Santísima Esposa, solicitamos también confiadamente tu patrocinio. Por la caridad que te unió a la Virgen Inmaculada, Madre de Dios, y por el amor paternal con que abrazaste al Niño Jesús, te suplicamos que mires con ojos benignos, a la herencia que Jesucristo conquistó con su sangre, y que nos socorras con tu poder en nuestras necesidades.\n\nProtege, providente custodio de la Divina Familia, a la descendencia elegida de Jesucristo; presérvanos, Padre amadísimo, de todo contagio de error y corrupción. Poderosísimo libertador nuestro, muéstratenos propicio y asístenos desde el cielo, en el combate que al presente libramos contra el poder de las tinieblas, y del mismo modo que en otro tiempo, libraste del peligro de la muerte al Niño Jesús, defiende ahora a la Santa Iglesia de Dios, contra las asechanzas del enemigo y contra toda adversidad.\n\nAmpara a cada uno de nosotros con tu perpetuo patrocinio, a fin de que, siguiendo tus ejemplos y sostenidos con tu auxilio, podamos vivir santamente, morir piadosamente, y obtener la felicidad eterna del cielo. Amén.\n\nJesús, José y María, os doy el corazón y el alma mía.\n\nJesús, José y María, asistidme en mi última agonía.\n\nJesús, José y María, expire en paz con vosotros el alma mía."
+	},
+	{
+		"nombre":"54) Acto de Fé",
+		"title":"Acto de Fé",
+		"contenido_esp":"Señor mío y Dios mío: creo en Ti porque Tú eres la Verdad; creo todo lo que has revelado y la Iglesia nos enseña. Dios mío, confío en Ti, aumenta mi fe."
+	},
+	{
+		"nombre":"55) Acto de esperanza",
+		"title":"Acto de esperanza",
+		"contenido_esp":"Señor mío y Dios mío: espero en Ti porque eres bueno y fiel a tu palabra; espero tu perdón y tu gracia y la vida eterna que prometiste; espero en tu Providencia, ayuda y misericordia. Dios mío, fortalece mi esperanza."
+	},
+	{
+		"nombre":"56) Acto de caridad",
+		"title":"Acto de caridad",
+		"contenido_esp":"Señor mío y Dios mío: te amo porque Tú eres el Amor y la Bondad; te amo sobre todas las cosas, y amo a mis hermanos como Tú me enseñaste. Dios mío, enciende en mí el fuego de tu amor. "
+	},
+	{
+		"nombre":"57) Por las familias",
+		"title":"Por las familias",
+		"contenido_esp":"Señor Jesús, que quisiste vivir en familia, y colmarla de bendiciones, te pedimos, en unión de María y José, que protejas a todas las familias para que, por el don de tu paz, en cada una de ellas reine la armonía y el amor a Ti y entre cada uno de sus miembros. Amén."
+	},
+	{
+		"nombre":"58) Oración por mi matrimonio",
+		"title":"Oración por mi matrimonio",
+		"contenido_esp":"Te ruego, Señor, que obres en mi matrimonio, restaurando nuestros corazones en fidelidad, y haciéndonos madurar como esposos. Danos tu mismo sentir y visión del amor; pues “la persona que no decide amar para siempre, le será muy difícil amar siquiera un día”. Que juntos rechacemos toda tentación contra la indisolubilidad por ti querida; más aún, que seamos testigos en el mundo de que la fidelidad matrimonial siempre es posible con tu gracia. San Juan Pablo II, ruega por mi esposa/o y por mí. Amén."
+	},
+	{
+		"nombre":"59) Por una madre embarazada y su hijo/a",
+		"title":"Por una madre embarazada y su hijo/a",
+		"contenido_esp":"Dios, que preparaste el alma y el cuerpo de María Virgen para que mereciera ser digna habitación de tu Hijo, recibe nuestra fervorosa oración en favor de N., la cual suplica humildemente la protección de su hijo/a que Tú quisiste que concibiera; bendícela para que su hijo/a nazca en salud, te sirva en la tierra, y merezca un día la gloria del Cielo. Amén."
+	},
+	{
+		"nombre":"60) Para hijo/a alejado/a de la Fé",
+		"title":"Para hijo/a alejado/a de la Fé",
+		"contenido_esp":"Buen Padre Celestial, mira con misericordia a este hijo/a N que Tú mismo me has encomendado; mira el dolor que por él/ella padeció tu Divino Hijo en Su Pasión; te ruego que su indiferencia y su culpa no pongan obstáculos al fluir de la Sangre Redentora de tu Hijo; que, considerando mis propias oraciones, sacrificios, desvelos y principalmente la intercesión eficaz de tu Madre Dolorosa, difundas sobre él/ella una lluvia divina tal que, vuelto a la Verdad, por Ti sea perdonado en hora de la muerte y Contigo vaya a la gloria de tu Reino. Así sea."
+	},
+	{
+		"nombre":"61) Petición para un buen novio/a",
+		"title":"Petición para un buen novio/a",
+		"contenido_esp":"Señor Jesús, Tú eres el Amor, y Tú me hiciste para amar. Entiendo que es de tu deseo y mayor gloria que un día esté unido/a en santo matrimonio. Ruego, por ello, que me envíes a quien me elegiste, desde antes que yo naciera, como santo cónyuge.\n\nHazme paciente para esperar su llegada. Sé que hiciste su corazón para mí y el mío para ella/él.\n\nEnséñame a reservarme en santa pureza para ella/él, como ella/él se reserva ahora para mí. Así sea."
+	},
+	{
+		"nombre":"62) A la Virgen de Guadalupe una gracia",
+		"title":"A la Virgen de Guadalupe una gracia",
+		"contenido_esp":"Virgen Madre mía de Guadalupe, quien mil veces te abrazara; quien mil veces te contemplara; quien mil veces te dijera “Madre mía”. Virgen mía de Guadalupe, socórreme en esta necesidad. (Petición). Atiende sin dudar mi súplica y concede aquello que, como Madre, bien sabes que necesito. Amén."
+	},
+	{
+		"nombre":"63) Las siete virtudes fundamentales",
+		"title":"Las siete virtudes fundamentales",
+		"contenido_esp":"● Las 3 teologales:\n\n1. Fe. 2. Esperanza. 3. Caridad.\n\n● Las 4 cardinales:\n\n1. Prudencia. 2. Justicia. 3. Fortaleza. 4. Templanza."
+	},
+	{
+		"nombre":"64) Los Dones y Frutos del Espíritu Santo",
+		"title":"Los Dones y Frutos del Espíritu Santo",
+		"contenido_esp":"● Los 7 Dones:\n\n1. Sabiduría. 2. Entendimiento. 3. Consejo. 4. Fortaleza. 5. Ciencia. 6. Piedad. 7. Temor de Dios.\n\n● Los 12 Frutos:\n\n1. Caridad. 2. Gozo. 3. Paz. 4. Paciencia. 5. Benignidad. 6. Bondad. 7. Longanimidad. 8. Mansedumbre. 9. Fidelidad. 10. Modestia. 11. Continencia. 12. Castidad."
+	},
+	{
+		"nombre":"65) Para no permanecer en pecado mortal",
+		"title":"Para no permanecer en pecado mortal",
+		"contenido_esp":"Si caes en pecado mortal, confiésate cuanto antes. No te duermas sin previo acto de contrición perfecta (#9), es decir, un arrepentimiento profundo del pecado cometido, no por sus consecuencias negativas en nosotros, sino por amor a Dios: “Dios mío, perdóname, que yo te amo sobre todas las cosas”; éste no exime de la Confesión cuanto antes."
+	},
+	{
+		"nombre":"66) Para encomendarse en los viajes",
+		"title":"Para encomendarse en los viajes",
+		"contenido_esp":"Al iniciarlo, un Padrenuestro, Avemaría y Gloria, luego:\n\nU: Nuestra Señora del Buen Viaje, T: ruega por nosotros.\n\nU: Arcángel San Rafael, T: ruega por nosotros."
+	},
+	{
+		"nombre":"67) Por la Paz en México",
+		"title":"Por la Paz en México",
+		"contenido_esp":"Dios Nuestro, mira con Bondad a esta patria mexicana, tuya y nuestra, a la que has concedido innumerables bienes y muéstrate propicio ante la ola de peligros y adversidades que se le presentan. Mantenla firme en la fe; que México sea ejemplo de nación católica ante el mundo y estandarte vivo de Santa María de Guadalupe, Madre tuya y nuestra, quien quiso poner su casa en ella. Amén."
+	},
+	{
+		"nombre":"68) A la Mater Dolorosa (San Buenaventura)",
+		"title":"A la Mater Dolorosa (San Buenaventura)",
+		"contenido_esp":"¡Mater Dolorosa!, por esa espada de dolor que atravesó tu alma cuando viste a tu amadísimo Hijo elevado en la Cruz, desnudo, clavado en un patíbulo infame, cubierto de heridas y golpes, dígnate obtener que nuestro corazón se vea penetrado por la espada de la compunción y herido por el amor divino. (...)\n\n¡Madre traspasada por la espada!, haz, te ruego, que lloremos nuestras faltas y que la penitencia cure las llagas de nuestros pecados, para que en la hora en que la muerte haga de nuestro cuerpo un objeto de repulsión para los hombres, nuestra alma, resplandeciente de belleza, merezca recibir en los transportes del amor divino, el beso del dulcísimo Jesús, tu Hijo y nuestro Señor. Amén."
+	},
+	{
+		"nombre":"69) Vía Crucis",
+		"title":"Vía Crucis",
+		"instrucciones":"Con Ind. Plenaria rezada delante de Estaciones erigidas.\n\nIniciar persignándose (#1), Acto de Contrición (#9).",
+		"contenido_esp":"Señor mío Jesucristo, Tú que recorriste con amor infinito el camino del Calvario, para redimirme de los pecados con los que te he ofendido, dame, te suplico, la gracia de meditar con verdadero dolor todo lo que padeciste por mí. María Santísima, Mater Dolorosa, enséñame a tener sentimientos como los que tú has tenido en la Pasión de tu Hijo, para que así pueda aprender en el libro de la Cruz el arte de amar a Dios. Amén.\n\n\n\n\u00BBSe anuncia la (Primera) Estación, y luego:\n\nU:  ¡Te adoramos, Cristo, y te bendecimos!\n\nT:  Porque, por tu Santa Cruz, redimiste al mundo y a mi pecador.\n\n\u00BBLeer y meditar Estación. Puede agregar Padren., Avem., Gloria.\n\nU:  ¡Señor, ten misericordia de nosotros!\n\nT:  Porque hemos pecado contra Ti.\n\n\n\n●1°. Estación: JESÚS CONDENADO A MUERTE\n\nJesús mío, eres injustamente sentenciado a morir en la Cruz. El temor a los judíos del débil Pilato es el que te condena. ¡Señor, haz que te reconozca siempre delante de los hombres y no permitas que mi cobarde temor al qué dirán vuelva a condenarte!\n\n\n\n●2°. Estación: JESÚS CARGA CON LA CRUZ\n\nSeñor, llevas a cuestas el pesado madero para enseñarme a llevar cada día mis propias cruces. ¡Dame la gracia de abrazar con amor todos los sufrimientos que me tengas preparados hasta la muerte!\n\n\n\n●3°. Estación: JESÚS CAE POR PRIMERA VEZ\n\nAmado Salvador mío, más que el peso de la Cruz son mis pecados los que te hacen sufrir tantas penas. ¡Que los méritos que alcanzaste por esta caída me sostengan en las tentaciones!\n\n\n\n●4°. Estación: JESÚS ENCUENTRA A SU SSMA MADRE\n\n¡Cuánta pena has experimentado en este encuentro con tu Santísima Madre en la calle de la amargura! Tu mirada fue otra espada que atravesó el corazón de María. ¡Dios mío, concédeme la gracia de tener una verdadera devoción a la Mater Dolorosa!\n\n\n\n●5°. Estación: EL CIRENEO AYUDA A LLEVAR LA CRUZ DEL SEÑOR\n\nSeñor Jesucristo: por obligación te ayuda Simón de Cirene a cargar el agobiante leño que ha de darte muerte. ¡Que yo no rehúse mi cruz! Antes bien, ¡que cada día cumpla tu Voluntad sin demoras, sin reservas, para siempre, por amor!\n\n\n\n●6°. Estación: LA VERÓNICA LIMPIA EL ROSTRO DE JESÚS\n\n¡Imprime, Redentor mío, sobre los pliegues de mi alma, tu divino rostro, bañado en sudor y sangre, para que nunca olvide que fueron mis pecados los que te ocasionaron tanta aflicción!\n\n\n\n●7°. Estación: JESÚS CAE POR SEGUNDA VEZ\n\nTú vuelves a caer porque yo vuelvo a pecar. Tantas veces me has perdonado y yo he vuelto a ofenderte. Por los méritos de esta nueva caída, ayúdame, Señor, a levantarme siempre que caiga y a perseverar en tu amor hasta la muerte.\n\n\n\n●8°. Estación: JESÚS ENCUENTRA A LAS MUJERES DE JERUSALÉN\n\nDice Jesús: “No lloréis por mí, llorad más bien por vosotras y por vuestros hijos” (Lc 23,28). Es tu última amonestación sobre la tierra. Señor mío, así me das a entender el gran castigo que merece el pecado. ¡Dame la gracia de llorar mis faltas por haberte ofendido a Ti, más por amor que por temor!\n\n\n\n●9°. Estación: JESÚS CAE POR TERCERA VEZ\n\nExtremada es tu debilidad, Señor, y excesiva la crueldad de tus verdugos, que te pisotean y te humillan. ¡Enséñame a vencer los respetos humanos y a sacar provecho de las humillaciones que se me ofrezcan!\n\n\n\n●10°. Estación: JESÚS ES DESPOJADO DE SUS VESTIDURAS\n\nCon gran violencia los soldados te arrancan las vestimentas pegadas a tu cuerpo y tu desnudez queda expuesta ante la muchedumbre. Inocentísimo Jesús: ¡ayúdame a desapegarme de los bienes de la tierra y a llorar las impurezas por las que pagaste tan alto precio!\n\n\n\n●11°. Estación: JESÚS ES CRUCIFICADO\n\nCae el martillo y traspasan con clavos tus manos y tus pies. Manos que bendijeron y sanaron; pies que recorrieron los caminos para buscar al pecador. Señor: ¡que también yo me deje clavar gustosamente en el madero de la Cruz y nunca más te abandone!\n\n\n\n●12°. Estación: MUERE EL SEÑOR EN LA CRUZ\n\nHe aquí la gran prueba del amor de mi Dios. ¡Cuánto te costó, Salvador mío, conquistar el corazón de este gusano de la tierra! Y, después de tanto padecer, dame la gracia de morir abrazado a Ti y consumido por tu amor.\n\n\n\n●13°. Estación: DESCIENDEN EL CUERPO DEL SEÑOR Y LO ENTREGAN A SU MADRE\n\nMaría Santísima, tú que eres la más afligida de todas las madres, alcánzame el dolor de mis pecados, que fueron la causa de la muerte de tu divino Hijo y de la espada que traspasó tu Inmaculado Corazón.\n\n\n\n●14°. Estación: DAN SEPULTURA AL CUERPO DE JESÚS\n\nYa veo, Señor, que eres el grano de trigo que cae en la tierra para darme la Vida en abundancia. Enséñame a negar cada día mi propia voluntad y mi propio juicio y así poder dar frutos de santidad para tu mayor gloria.\n\n\n\n\u00BBLuego rezar Padrenuestro, Avemaría y Gloria por las intenciones del Papa para ganar Indulgencias.\n\n\u00BBSe aconseja finalizar con la Oración #70."
+	},
+	{
+		"nombre":"70) Oración a Jesús crucificado ('En Ego')",
+		"title":"Oración a Jesús crucificado ('En Ego')",
+		"instrucciones":"Rezada los viernes de Cuaresma tiene Indulgencia Plenaria cuando se reza píamente delante de un Crucifijo luego de comulgar (Ench. Indulgentiarum conc. 8 §1, 2°).",
+		"contenido_esp":"Mírame, amado y buen Jesús, postrado de rodillas en tu presencia: te suplico y ruego con el mayor fervor de mi alma, que imprimas en mi corazón vivos sentimientos de fe, esperanza y caridad, verdadero dolor de mis pecados, y firmísimo propósito de enmendarme; mientras que yo con todo el amor y compasión de mi alma voy considerando y contemplando tus cinco llagas, teniendo presente lo que dijo de Ti, mi Buen Jesús, el Profeta David: “Han taladrado mis manos y mis pies, y se pueden contar todos mis huesos” (Sal 22,17)."
+	},
+	{
+		"nombre":"71) Los diez Mandamientos de la ley de Dios",
+		"title":"Los diez Mandamientos de la ley de Dios",
+		"contenido_esp":"1°. Amar a Dios sobre todas las cosas.\n\n2°. No tomar el Nombre de Dios en vano.\n\n3°. Santificar las fiestas.\n\n4°. Honrar al padre y a la madre.\n\n5°. No matar.\n\n6°. No cometer actos impuros.\n\n7°. No hurtar.\n\n8°. No decir falso testimonio ni mentir.\n\n9°. No consentir pensamientos ni deseos impuros.\n\n10°. No codiciar los bienes ajenos.\n\n\n\n●DOBLE MANDAMIENTO DEL AMOR: (Mt 22,38-39; Dt 6,5)\n\n1. “Amarás al Señor tu Dios con todo el corazón, con toda el alma, con toda tu mente.”\n\n2. “Amarás al prójimo como a ti mismo.” \n\n●LA REGLA DE ORO: “Traten a los demás como quieren que los demás los traten a ustedes” (Mt 7,12)."
+	},
+	{
+		"nombre":"72) Los cinco preceptos de la Iglesia",
+		"title":"Los cinco preceptos de la Iglesia",
+		"contenido_esp":"1) Oír Misa entera todos los domingos y fiestas de guardar*, y no realizar trabajos y actividades que puedan impedir la santificación de estos días.\n\n* Cuatro son las fiestas de precepto en México: 12/12, Ntra. Sra. de Guadalupe; 25/12, Navidad; 01/01 María Madre de Dios; Jueves de Corpus Christi.\n\n2) Confesar los propios pecados al menos una vez al año, y los mortales en peligro de muerte, y si se ha de comulgar.\n\n3) Comulgar al menos una vez al año por Pascua de Resurrección. (2 de feb. ~ 16 de jul. en México)\n\n4) Ayunar y abstenerse de carne cuando lo manda la Iglesia (#75).\n\n5) Ayudar a la Iglesia en sus necesidades materiales, cada uno según sus posibilidades."
+	},
+	{
+		"nombre":"73) Las obras de misericordia",
+		"title":"Las obras de misericordia",
+		"contenido_esp":"● Siete Corporales.\n\n1. Dar de comer al hambriento. 2. Dar de beber al sediento. 3. Vestir al desnudo. 4. Visitar a los enfermos. 5. Dar albergue al peregrino. 6. Redimir al cautivo. 7. Enterrar a los muertos.\n\n● Siete Espirituales.\n\n1. Enseñar al que no sabe. 2. Dar un buen consejo al que lo necesite. 3. Corregir al que yerra. 4. Perdonar las injurias. 5. Consolar al triste. 6. Sufrir con paciencia los defectos de nuestro prójimo. 7. Rogar a Dios por vivos y difuntos."
+	},
+	{
+		"nombre":"74) Pecados capitales y virtudes contrarias",
+		"title":"Pecados capitales y virtudes contrarias",
+		"contenido_esp":"Soberbia. Avaricia. Lujuria. Ira. Gula. Envidia. Pereza.\n\n\u00BBSus virtudes contrarias:\n\nHumildad. Generosidad. Castidad. Paciencia. Templanza. Caridad. Diligencia."
+	},
+	{
+		"nombre":"75) Tiempos penitenciales, ayuno, abstinencia",
+		"title":"Tiempos penitenciales, ayuno, abstinencia",
+		"contenido_esp":"Son días y tiempos penitenciales todos los viernes del año y el tiempo de Cuaresma. En ellos la Iglesia nos pide hacer actos de penitencia, piedad y caridad.\n\n1°. Miércoles de Ceniza y Viernes Santo hay obligación de ayunar (de los 18 a los 59 años) y abstenerse de carne (desde los 14 años sin límite de edad). \n\n2°. La ley del ayuno prescribe que sólo se haga una comida al día y una colación a la mañana y a la noche.\n\n3°. Todos los viernes del año –salvo en Solemnidad– se ha de abstenerse de comer carne, lo cual puede ser sustituido por algún sacrificio, obra de caridad (visitar un enfermo), o acto de piedad (Vía Crucis)."
+	},
+	{
+		"nombre":"76) Para ganar una indulgencia plenaria",
+		"title":"Para ganar una indulgencia plenaria",
+		"contenido_esp":"Para quitar toda la pena temporal de los pecados:\n\n1°. Excluir todo afecto hacia el pecado, incluso al pecado venial.\n\n2°. Confesarse y comulgar con intención de ganar la Indulgencia (conviene el mismo día, pero, estando en gracia, valdría el plazo de 20 días antes o después).\n\n3°. Estar en gracia de Dios.\n\n4°. Hacer la obra indulgenciada.\n\n5°. Rezar por las intenciones del Sumo Pontífice."
+	},
+	{
+		"nombre":"77) Tres condiciones para un pecado mortal",
+		"title":"Tres condiciones para un pecado mortal",
+		"contenido_esp":"Se comete un pecado mortal cuando se dan al mismo tiempo las siguientes tres condiciones:\n\n1°. Materia grave: que lo que se haga o lo que se piense sea en sí mismo grave.\n\n2°. Plena advertencia: que se sepa claramente que eso es pecado mortal.\n\n3°. Deliberado consentimiento: que la acción o el pensamiento sean realizados con plena determinación."
+	},
+	{
+		"nombre":"78) Cuatro condiciones para comulgar",
+		"title":"Cuatro condiciones para comulgar",
+		"contenido_esp":"1º Estar en gracia de Dios (no tener pecado mortal).\n\n\u00BBNota: no es conveniente privarse de comulgar teniendo sólo pecados veniales; no hay norma que diga que haya que confesarse antes de cada Comunión.\n\n2º Guardar una hora de ayuno de alimento y bebida, a excepción sólo del agua y de medicinas.\n\n3º Actitud interior: recordar a Quién se está recibiendo.\n\n4° Actitud exterior: comulgar con respeto y devoción.\n\n\u00BBAntes de Comulgar se debe hacer un acto de reverencia.\n\n\u00BBSe puede llegar a comulgar dos veces al día si la segunda Comunión se realiza mientras se escucha Misa entera."
+	},
+	{
+		"nombre":"79) Los novísimos o postrimerías",
+		"title":"Los novísimos o postrimerías",
+		"contenido_esp":"Las cuatro situaciones que esperan al final de la vida:\n\n1. Muerte. 2. Juicio. 3. Infierno. 4. Gloria (Cielo)."
+	},
+	{
+		"nombre":"80) Cinco condiciones de una buena confesión",
+		"title":"Cinco condiciones de una buena confesión",
+		"contenido_esp":"1°. Examen de conciencia.\n\n2°. Dolor de los pecados.\n\n3°. Propósito de enmienda o intención firme de no volver a pecar\n\n4°. Decir los pecados al Sacerdote en Confesión\n\n5°. Cumplir la penitencia impuesta por él.\n\nEn Confesión al “Dad gracias al Señor porque es bueno” del Sacerdote, se responde: “Porque es eterna su misericordia”."
+	},
+	{
+		"nombre":"81) Examen de conciencia para la confesión",
+		"title":"Examen de conciencia para la confesión",
+		"contenido_esp":"● Preguntas básicas:\n\n¿Hace cuánto que no me confieso? ¿En alguna Confesión pasada callé voluntariamente algún pecado mortal? ¿Cumplí las penitencias de las Confesiones pasadas y reparé la injusticia cometida? ¿Tengo ahora verdadero dolor y propósito de cambiar? ¿Comulgué estando en pecado mortal? ¿Cuánto tiempo permanecí en pecado mortal desaprovechando la Confesión?\n\n● 1°. Mandamiento: “Amar a Dios sobre todas las cosas”\n\n¿Dudé seriamente de alguna verdad de fe? ¿Llegué a hacerlo delante de los demás? ¿He dejado de confiar en el auxilio de Dios? ¿Hablé sin reverencia de las cosas de Dios, de la Iglesia y de sus ministros? ¿Abandoné la oración o los sacramentos? ¿Soy supersticioso? ¿Creí en adivinos, brujerías, amuletos o cosas similares? ¿He leído libros o revistas que van contra la fe o la moral? ¿Busco conocer más mi fe? ¿Tengo otros “dioses”, cosas que me preocupan más que Dios (dinero, profesión, estudios, gustos, etc.)?\n\n● 2°. Mandamiento: “No tomar el Nombre de Dios en vano”\n\n¿He blasfemado (insultos) o he sido irreverente con el Nombre de Dios, de la Virgen o de los Santos? ¿Hice juramentos falsos o sin necesidad? ¿Lo hice delante de otros? ¿He hecho algún voto, juramento o promesa y he dejado de cumplirlo por mi culpa? \n\n● 3°. Mandamiento: “Santificar las fiestas”\n\n¿Creo todo lo que enseña la Iglesia Católica? ¿Discuto sus preceptos olvidando que son los de Cristo? ¿Falté o llegué tarde a Misa los domingos o días de precepto? ¿Cuántos? ¿Trabajé sin necesidad en domingo? ¿Cumplí los preceptos de la Iglesia (#72) y las condiciones para una buena Confesión (#80) y Comunión (#78)? ¿Guardé el sacrificio de todos los viernes (abstinencia de carne u otro)? ¿Participé en obras de apostolado de la Iglesia?\n\n● 4°. Mandamiento: “Honrar al padre y a la madre”\n\nPreguntas para los hijos: ¿Obedecí, entristecí o fui irrespetuoso con mis padres y superiores? ¿Los he ayudado en sus necesidades espirituales y materiales? ¿Hago celebrar Misas por mis padres difuntos?\n\nA los padres: ¿Cumplo con mi deber de educarlos, que incluye lo religioso? ¿Doy mal ejemplo a mis hijos? ¿He abusado de mi autoridad para con ellos? ¿He permitido escándalos o peligros morales en el hogar? ¿Peleé con mi cónyuge? ¿Me preocupé de él?\n\n● 5°. Mandamiento: “No matar”\n\n¿He causado daño a la vida, la fama o los bienes de los demás? ¿Aconsejé, colaboré o procuré el gravísimo crimen del aborto? ¿Amo a mi prójimo, hago provecho del prójimo para mí egoísmo? ¿Causé escándalo con mis palabras o acciones? ¿Tengo enemistad, odio o rencor contra alguien? ¿Me dejé llevar por la ira? ¿Deseé un mal grave al prójimo o me alegré de sus males? ¿Dañé mi persona con droga, alcohol, etc.?\n\n● 6°. y 9°. Mandamientos: “No cometer actos impuros”; “No consentir pensamientos ni deseos impuros”\n\n¿He manchado mi cuerpo con alguna acción deshonesta? ¿Solo o acompañado? ¿Me he puesto en ocasión próxima de pecado contra la pureza? ¿He tenido lecturas, miradas o conversaciones contra la pureza? ¿He participado de espectáculos o diversiones contrarios a la honestidad cristiana y humana? ¿He sido en esto causa de pecado para los demás? ¿Me entretuve con pensamientos o recuerdos deshonestos, aunque no los haya ejecutado? ¿Me he vestido indecentemente?\n\nSi convivo con alguien, ¿estoy casado por Iglesia? ¿He utilizado o aconsejado anticonceptivos u otros métodos antinaturales contra la procreación? \n\n● 7°. y 10°. Mandamientos: “No hurtar”; “No codiciar los bienes ajenos” ¿Robé o cooperé en el robo? ¿Devolví lo ajeno y reparé el daño cometido? ¿Fui justo, responsable y honesto en mi trabajo? ¿Pagué con justicia el salario, cumplí los contratos? ¿He pagado los impuestos que son de justicia? ¿Apoyé proyectos de acción social inmorales o anticristianos? ¿Soy egoísta con las cosas que tengo? ¿Soy envidioso de lo ajeno? ¿Ayude a los pobres y a las obras de la Iglesia?\n\n● 8°. Mandamiento: “No decir falso testimonio ni mentir”\n\n¿He mentido? ¿He calumniado (decir cosas graves y falsas sobre otro)? ¿He hecho juicios temerarios (afirmaciones malas sobre otro sin justo fundamento)? ¿He murmurado (decir sin necesidad los defectos y faltas de otros)? ¿Revelé secretos sin justa causa? ¿Reparé el daño que hice diciendo estas cosas? "
+	},
+	{
+		"nombre":"82) Acto de reparación al Sagrado Corazón de Jesús",
+		"title":"Acto de reparación al Sagrado Corazón de Jesús",
+		"instrucciones":"(Pío XI; Ind. Plenaria rezada en público en Solem. Sgdo. Corazón)",
+		"contenido_esp":"Jesús dulcísimo, cuyo inmenso amor a los hombres ha sido ingratamente correspondido con tanto olvido, negligencia, desprecio; nosotros, arrodillados en tu Presencia, queremos resarcir con especial reverencia tan indigna frialdad y tantas injurias con que los hombres afligen en todas partes tu amantísimo Corazón.\n\nAhora, recordando que también nosotros más de una vez hemos sido culpables de tanta indignidad, de la que nos dolemos ahora arrepentidos, imploramos ante todo tu misericordia a favor nuestro, dispuestos a compensar con voluntaria expiación no sólo las infamias de nuestros propios pecados, sino también las de aquellos que, apartándose totalmente del camino de la salvación, rehúsan seguirte, obstinados en su infidelidad, como Pastor y Guía, o, conculcando las promesas del bautismo, han sacudido el suavísimo yugo de tu Ley.\n\nNosotros queremos tanto expiar tan abominables pecados como resarcirlos cada uno de ellos: la inmodestia y deshonestidad de la vida y de los vestidos; tantos lazos de corrupción tendidos contra las almas inocentes; la profanación de los días festivos; las maldiciones proferidas contra Ti y tus santos; los insultos contra tu Vicario y el Orden sacerdotal; las negligencias y horrendos sacrilegios con que es profanado el mismo Sacramento del amor divino; y finalmente los delitos de las naciones que se oponen a los derechos y al Magisterio de la Iglesia que Tú fundaste.\n\n¡Ojalá pudiéramos lavar estos pecados con nuestra propia sangre! Entretanto, para resarcir el honor divino profanado te ofrecemos la satisfacción que Tú un día ofreciste al Padre en la Cruz y que renuevas en los altares diariamente, uniéndola con la expiación de la Virgen tu Madre, de todos los Santos y píos fieles, prometiendo de todo corazón, en cuanto nos es posible y con la ayuda de tu gracia, compensar los pecados pasados, nuestros y de los demás, y tanta falta de amor, con una fe firme, con una conducta intachable, con una observancia perfecta de la ley evangélica, sobre todo de la caridad, impidiendo con todas las fuerzas las injurias contra ti e incitando a cuantos podamos a tu seguimiento. \n\nAcepta, benignísimo Jesús, por intercesión de la Virgen María Reparadora, este voluntario acto de expiación y haz que nos mantengamos fidelísimos en tu obediencia y servicio hasta la muerte, otorgándonos el gran don de la perseverancia, para que todos lleguemos finalmente a aquella patria donde Tú, con el Padre y el Espíritu Santo, vives y reinas por los siglos de los siglos. Amén."
+	},
+	{
+		"nombre":"83) Soneto a Cristo Crucificado (Anónimo)",
+		"title":"Soneto a Cristo Crucificado (Anónimo)",
+		"contenido_esp":"No me mueve, mi Dios, para quererte\n\nel cielo que me tienes prometido,\n\nni me mueve el infierno tan temido\n\npara dejar por eso de ofenderte.\n\nTú me mueves, Señor, muéveme al verte\n\nclavado en una cruz y escarnecido,\n\nmuéveme ver tu cuerpo tan herido,\n\nmuévenme tus afrentas y tu muerte.\n\nMuéveme, en fin, tu amor, y en tal manera,\n\nque aunque no hubiera cielo, yo te amara,\n\ny aunque no hubiera infierno, te temiera.\n\nNo me tienes que dar porque te quiera, \n\npues aunque lo que espero no esperara, \n\nlo mismo que te quiero te quisiera."
+	},
+	{
+		"nombre":"84) Por los sacerdotes (S. Teresa del Niño Jesús)",
+		"title":"Por los sacerdotes (S. Teresa del Niño Jesús)",
+		"contenido_esp":"Oh Jesús, que has instituido el Sacerdocio para continuar en la tierra la obra divina de salvar a las almas, guarda a tus Sacerdotes (en especial N.) bajo el refugio de tu Sagrado Corazón.\n\nGuarda sin mancha sus manos consagradas, que a diario tocan tu Sagrado Cuerpo, y conserva puros sus labios teñidos con tu Preciosa Sangre. Haz que se reserven puros sus corazones, marcados con el sello sublime del Sacerdocio, y no permitas que el espíritu del mundo los contamine. Aumenta el número de tus Apóstoles, y que tu Santo Amor los proteja de todo peligro.\n\nBendice sus trabajos y fatigas, y que, como fruto de su apostolado obtengan la salvación de muchas almas que sean su consuelo aquí en la tierra y su corona eterna en el Cielo. Amén."
+	},
+	{
+		"nombre":"85) Los 73 libros de la Biblia Católica",
+		"title":"Los 73 libros de la Biblia Católica",
+		"contenido_esp":"Génesis Éxodo Levítico Números Deuteronomio Josué Jueces Rut Samuel(1-2) Reyes(1-2) Crónicas(1-2) Esdras Nehemías Tobías Judit Ester Macabeos(1-2) Job Salmos Proverbios Qohélet Cantar Sabiduría Sirácida Isaías Jeremías Lamentaciones Baruc Ezequiel Daniel Oseas Joel Amós Abdías Jonás Miqueas Nahúm Habacuc Sofonías Ageo Zacarías Malaquías Mateo Marcos Lucas Juan Hechos Romanos Corintios(1-2) Gálatas Efesios Filipenses Colosenses Tesalonicenses(1-2) Timoteo(1-2) Tito Filemón Hebreos Santiago Pedro(1-2) Juan(1-2-3) Judas Apocalipsis. [7 libros no están en ediciones protestantes.]"
+	},
+	{
+		"nombre":"86) TANTUMERGO (Bendición con el Ssmo. Sacramento)",
+		"title":"TANTUMERGO (Bendición con el Ssmo. Sacramento)",
+		"contenido_esp":"Pues postrados veneremos a tan magno Sacramento, \n\ny que las prescripciones antiguas cedan al rito nuevo; \n\nque la fe provea el suplemento a la deficiencia de los sentidos.\n\nAl Padre y al Hijo, la alabanza, el júbilo, \n\nla salutación, la honra, el poderío y también sea la gloria;\n\ny al que procede de ambos sea igual exaltación. Amén.\n\nV: Les diste el Pan del Cielo.\n\nR: Que contiene en sí todo deleite.\n\nV: Oremos. Oh Dios, que nos has dejado en este admirable sacramento el Memorial de tu Pasión: concédenos te pedimos venerar de tal manera los sagrados misterios de tu Cuerpo y de tu Sangre que experimentemos constantemente en nosotros los frutos de tu Redención. Que vives y reinas por los siglos de los siglos.\n\nR: Amén.",
+		"contenido_lat":"Tantum ergo Sacraméntum venerémur cérnui,\n\net antíquum documéntum novo cedat rítui,\n\nprǽstet fides suppleméntum sénsuum deféctui.\n\nGenitóri Genitóque laus et iubilátio,\n\nsalus, honor, virtus quóque sit et benedíctio;\n\nprocedénti ab utróque compar sit laudátio. Amen\n\nV. Panem de cælo præstitísti eis.\n\nR. Omne delectaméntum in se habéntem.\n\nV. Orémus. Deus, qui nobis sub sacraménto mirábili passiónis tuæ memóriam reliquísti, tríbue, quǽsumus, ita nos Córporis et Sánguinis tui sacra mystéria venerári, ut redemptiónis tuæ fructum in nobis iúgiter sentiámus. Qui vivis et regnas in sǽcula sæculórum.\n\nR. Amen."
+	},
+	{
+		"nombre":"87) Preces para la bendición Eucarística",
+		"title":"Preces para la bendición Eucarística",
+		"contenido_esp":"Bendito sea Dios.\n\nBendito sea su Santo nombre.\n\nBendito sea Jesucristo, verdadero Dios y verdadero hombre.\n\nBendito sea el nombre de Jesús.\n\nBendito sea su sacratísimo Corazón.\n\nBendita sea su preciosísima Sangre.\n\nBendito sea Jesús en el Santísimo Sacramento del altar.\n\nBendito sea el Espíritu Santo Consolador.\n\nBendita sea la excelsa Madre de Dios María Santísima.\n\nBendita sea su santa e inmaculada Concepción.\n\nBendita sea su gloriosa Asunción.\n\nBendito sea el nombre de María Virgen y Madre.\n\nBendito sea San José, su castísimo esposo.\n\nBendito sea Dios en sus ángeles y en sus santos."
+	},
+	{
+		"nombre":"88) Recomendación de San Juan Pablo II",
+		"title":"Recomendación de San Juan Pablo II",
+		"contenido_esp":"“Los Ejercicios son un conjunto de meditaciones y oraciones en atmósfera de recogimiento y de silencio, y sobre todo un particular impulso interior suscitado por el Espíritu Santo para abrir amplios espacios en el alma a la acción de la gracia. Espero que la conmemoración de este 50º aniversario [de la Encíclica Mens Nostra dedicada a los Ejercicios], resulte ocasión providencial para que sacerdotes, religiosos y laicos continúen siendo fieles a esta experiencia y le den incremento” (San Juan Pablo II)."
+	}
+]

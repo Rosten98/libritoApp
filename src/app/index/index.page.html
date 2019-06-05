@@ -1,0 +1,22 @@
+<app-header [title]="titulo"></app-header>
+
+<ion-content>
+  <ion-searchbar placeholder="Buscar oración" (ionChange)="buscarOracion($event)" [debounce]="250"></ion-searchbar>
+  
+  <ion-list *ngIf="oracionesBusqueda.length > 0" class="animated fadeIn">
+    <ion-item *ngFor="let o of oracionesBusqueda" (click)="verOracion($event, o)"> 
+        <ion-label>{{o.nombre}}</ion-label>
+    </ion-item>
+  </ion-list>
+  
+  <!-- <ion-list *ngIf="oracionesBusqueda.length === 0">
+    <ion-item  *ngFor="let item of [1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]">
+      <ion-label><ion-skeleton-text width="80%" class="animated slow fadeIn"></ion-skeleton-text></ion-label>
+    </ion-item>
+  </ion-list> -->
+  
+  <div class="spinner" *ngIf="oracionesBusqueda.length === 0">
+    <ion-spinner color="primary"></ion-spinner>
+  </div>
+  
+</ion-content>

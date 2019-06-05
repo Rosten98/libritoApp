@@ -1,0 +1,49 @@
+<ion-header no-border>
+  <ion-toolbar>
+    <ion-title> {{oracion.title}} </ion-title>
+    <div *ngIf="idioma" slot="end">
+      <ion-button (click)="cambiarIdioma()" fill="outline" *ngIf="latin" slot="end" size="small" >
+        Latin
+      </ion-button>
+      <ion-button (click)="cambiarIdioma()" fill="outline" *ngIf="espanol" slot="end" size="small" >
+        Español
+      </ion-button>
+    </div>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content padding>
+  <div *ngIf="instrucciones" >
+    <p><em>{{oracion.instrucciones}}</em></p>
+  </div>
+  
+  <div *ngIf="!espanol">
+    <pre>
+      <p>{{oracion.contenido_esp}}</p>
+    </pre>
+  </div>
+
+  <div *ngIf="!latin">
+    <pre>
+      <p>{{oracion.contenido_lat}}</p>
+    </pre>
+  </div>
+
+</ion-content>
+
+<ion-footer no-border>
+  <ion-toolbar>
+      <ion-buttons slot="start" mode="ios">
+        <ion-button (click)="regresar()" text-capitalize>
+          <ion-label>Regresar</ion-label>
+          <ion-icon slot="start" name="arrow-round-back"></ion-icon>
+        </ion-button>
+      </ion-buttons>
+      <ion-buttons slot="end" mode="ios">
+        <ion-button (click)="favs()" size="small" text-capitalize>
+          <ion-label>Favorito</ion-label>
+          <ion-icon slot="end" color="primary" [name]="estrella"></ion-icon>
+        </ion-button>
+    </ion-buttons>
+  </ion-toolbar>
+</ion-footer>

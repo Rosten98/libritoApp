@@ -1,5 +1,7 @@
 {
   "name": "libritoApp",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }

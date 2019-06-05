@@ -1,0 +1,10 @@
+<app-header title="Intenciones de oración"></app-header>
+
+<ion-content padding>
+
+    <p> Texto personalizado para invitar a enviar la petición</p>
+    <ion-textarea placeholder="Ingresa aquí tus intenciones..." (ionChange)="guardarIntenciones($event)" required></ion-textarea>
+    <ion-button expand="full" (click)="enviarIntenciones()" padding>
+        Enviar
+    </ion-button>
+</ion-content>

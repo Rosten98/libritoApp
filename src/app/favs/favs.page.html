@@ -1,0 +1,9 @@
+<app-header [title]="titulo"></app-header>
+
+<ion-content padding>
+    <ion-list>
+      <ion-item *ngFor="let fav of favoritas" (click)="verOracion($event, fav)"> 
+          <ion-label>{{fav.title}}</ion-label>
+      </ion-item>
+    </ion-list>
+</ion-content>
